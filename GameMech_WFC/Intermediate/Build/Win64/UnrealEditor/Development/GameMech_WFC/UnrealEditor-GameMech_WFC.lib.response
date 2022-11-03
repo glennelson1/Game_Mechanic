@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GameMech_WFC.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Intermediate\Build\Win64\GameMech_WFCEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Intermediate\Build\Win64\UnrealEditor\Development\GameMech_WFC\GameMech_WFC.cpp.obj"
+"C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Intermediate\Build\Win64\UnrealEditor\Development\GameMech_WFC\GameMech_WFCGameModeBase.cpp.obj"
+"C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Intermediate\Build\Win64\UnrealEditor\Development\GameMech_WFC\GameMech_WFC.init.gen.cpp.obj"
+"C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Intermediate\Build\Win64\UnrealEditor\Development\GameMech_WFC\GameMech_WFCGameModeBase.gen.cpp.obj"
+"C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Intermediate\Build\Win64\UnrealEditor\Development\GameMech_WFC\Default.rc2.res"
+/OUT:"C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Intermediate\Build\Win64\UnrealEditor\Development\GameMech_WFC\UnrealEditor-GameMech_WFC.lib"

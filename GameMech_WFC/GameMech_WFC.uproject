@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{2B4A1241-40FF-AE6F-9FA9-318718175CEE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GameMech_WFC",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}

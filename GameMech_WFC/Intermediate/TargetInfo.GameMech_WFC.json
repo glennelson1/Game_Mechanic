@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GameMech_WFC",
+			"Path": "C:\\Users\\n012782k\\Documents\\GitHub\\Game_Mechanic\\GameMech_WFC\\Source\\GameMech_WFC.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GameMech_WFCEditor",
+			"Path": "C:\\Users\\n012782k\\Documents\\GitHub\\Game_Mechanic\\GameMech_WFC\\Source\\GameMech_WFCEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

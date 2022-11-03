@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GameMech_WFC.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameMech_WFC.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GameMech_WFCEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GameMech_WFC">
+      <UniqueIdentifier>{EC445403-132B-3C55-97F0-A65A668270DD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameMech_WFC\GameMech_WFC.Build.cs">
+      <Filter>Source\GameMech_WFC</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GameMech_WFC\GameMech_WFC.cpp">
+      <Filter>Source\GameMech_WFC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameMech_WFC\GameMech_WFC.h">
+      <Filter>Source\GameMech_WFC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameMech_WFC\GameMech_WFCGameModeBase.cpp">
+      <Filter>Source\GameMech_WFC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameMech_WFC\GameMech_WFCGameModeBase.h">
+      <Filter>Source\GameMech_WFC</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
