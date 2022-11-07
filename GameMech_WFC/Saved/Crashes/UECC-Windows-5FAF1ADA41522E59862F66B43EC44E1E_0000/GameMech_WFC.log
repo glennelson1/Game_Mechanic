@@ -1,0 +1,1448 @@
+﻿Log file open, 11/07/22 19:18:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=18760)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GameMech_WFC
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/GameMech_WFC.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2130] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="7b355a924b91cb144d6193a165167501"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.283966
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-5FAF1ADA41522E59862F66B43EC44E1E
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2130] (), CPU: 11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz, GPU: NVIDIA GeForce RTX 3080
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Epic/UE5/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.11.07-19.18.20:107][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.11.07-19.18.20:107][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.11.07-19.18.20:107][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.11.07-19.18.20:111][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.07-19.18.20:111][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.07-19.18.20:111][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.07-19.18.20:111][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.07-19.18.20:111][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.07-19.18.20:111][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.07-19.18.20:111][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.07-19.18.20:111][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.07-19.18.20:111][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.07-19.18.20:111][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.07-19.18.20:111][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.07-19.18.20:124][  0]LogD3D12RHI: Aftermath initialized
+[2022.11.07-19.18.20:124][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.11.07-19.18.20:262][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3080 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.11.07-19.18.20:262][  0]LogD3D12RHI: Adapter has 10078MB of dedicated video memory, 0MB of dedicated system memory, and 16256MB of shared system memory, 2 output[s]
+[2022.11.07-19.18.20:345][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics 750 (Max supported Feature Level 12_1, shader model 6.5)
+[2022.11.07-19.18.20:345][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 16256MB of shared system memory, 0 output[s]
+[2022.11.07-19.18.20:350][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.11.07-19.18.20:350][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16256MB of shared system memory, 0 output[s]
+[2022.11.07-19.18.20:350][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.11.07-19.18.20:350][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.07-19.18.20:350][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.11.07-19.18.20:350][  0]LogHAL: Display: Platform has ~ 32 GB [34091540480 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.07-19.18.20:350][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.11.07-19.18.20:350][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.11.07-19.18.20:350][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.07-19.18.20:350][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.11.07-19.18.20:350][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/Config/WindowsEditor/Editor.ini]
+[2022.11.07-19.18.20:350][  0]LogInit: Computer: C117A-29
+[2022.11.07-19.18.20:350][  0]LogInit: User: n012782k
+[2022.11.07-19.18.20:350][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.11.07-19.18.20:350][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.07-19.18.20:350][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2022.11.07-19.18.20:350][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.11.07-19.18.20:350][  0]LogMemory: Process Physical Memory: 290.62 MB used, 293.00 MB peak
+[2022.11.07-19.18.20:350][  0]LogMemory: Process Virtual Memory: 265.95 MB used, 265.95 MB peak
+[2022.11.07-19.18.20:350][  0]LogMemory: Physical Memory: 13458.46 MB used,  19053.77 MB free, 32512.23 MB total
+[2022.11.07-19.18.20:350][  0]LogMemory: Virtual Memory: 17443.89 MB used,  19932.34 MB free, 37376.23 MB total
+[2022.11.07-19.18.20:350][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.11.07-19.18.20:355][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.07-19.18.20:369][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.11.07-19.18.20:370][  0]LogInit: Using OS detected language (en-GB).
+[2022.11.07-19.18.20:370][  0]LogInit: Using OS detected locale (en-GB).
+[2022.11.07-19.18.20:375][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2022.11.07-19.18.20:547][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.07-19.18.20:563][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.11.07-19.18.20:563][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2022.11.07-19.18.20:563][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2022.11.07-19.18.20:563][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2022.11.07-19.18.20:582][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.07-19.18.20:582][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.07-19.18.20:707][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.11.07-19.18.20:711][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.11.07-19.18.20:711][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.11.07-19.18.20:786][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.11.07-19.18.20:786][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.11.07-19.18.20:786][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.11.07-19.18.20:786][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.11.07-19.18.20:786][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.11.07-19.18.20:786][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.11.07-19.18.20:786][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.11.07-19.18.20:786][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.11.07-19.18.20:786][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.11.07-19.18.20:786][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.11.07-19.18.20:786][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.11.07-19.18.20:786][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.11.07-19.18.20:786][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.11.07-19.18.20:786][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.11.07-19.18.20:786][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.11.07-19.18.20:786][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.11.07-19.18.20:846][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.11.07-19.18.20:853][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.11.07-19.18.20:863][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.11.07-19.18.20:881][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.11.07-19.18.20:881][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.11.07-19.18.20:904][  0]LogD3D12RHI:     GPU DeviceId: 0x2216 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.07-19.18.20:904][  0]LogWindows: Attached monitors:
+[2022.11.07-19.18.20:904][  0]LogWindows:     resolution: 1920x1080, work area: (1920, 0) -> (3840, 1040), device: '\\.\DISPLAY1'
+[2022.11.07-19.18.20:904][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY2' [PRIMARY]
+[2022.11.07-19.18.20:904][  0]LogWindows: Found 2 attached monitors.
+[2022.11.07-19.18.20:904][  0]LogWindows: EnumDisplayDevices:
+[2022.11.07-19.18.20:904][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080' (P:0 D:1), name: '\\.\DISPLAY1'
+[2022.11.07-19.18.20:904][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080' (P:1 D:1), name: '\\.\DISPLAY2'
+[2022.11.07-19.18.20:904][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.11.07-19.18.20:904][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.11.07-19.18.20:904][  0]LogWindows:    4. 'Intel(R) UHD Graphics 750' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.11.07-19.18.20:905][  0]LogWindows:    5. 'Intel(R) UHD Graphics 750' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.11.07-19.18.20:905][  0]LogWindows:    6. 'Intel(R) UHD Graphics 750' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.11.07-19.18.20:905][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.11.07-19.18.20:905][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3080
+[2022.11.07-19.18.20:905][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.11.07-19.18.20:905][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2022.11.07-19.18.20:905][  0]LogRHI: Texture pool is 5865 MB (70% of 8379 MB)
+[2022.11.07-19.18.20:905][  0]LogD3D12RHI: Async texture creation enabled
+[2022.11.07-19.18.20:905][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.11.07-19.18.20:917][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.11.07-19.18.20:923][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/GameMech_WFC.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Intermediate/TurnkeyReport_0.log" -log="C:/Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Intermediate/TurnkeyLog_0.log" -project="C:/Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/GameMech_WFC.uproject"  -platform=all'
+[2022.11.07-19.18.20:923][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Epic/UE5/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/GameMech_WFC.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Intermediate/TurnkeyReport_0.log" -log="C:/Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Intermediate/TurnkeyLog_0.log" -project="C:/Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/GameMech_WFC.uproject"  -platform=all" ]
+[2022.11.07-19.18.20:946][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.11.07-19.18.20:974][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.11.07-19.18.20:974][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.11.07-19.18.20:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.07-19.18.20:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.07-19.18.20:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.07-19.18.20:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.07-19.18.20:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.07-19.18.20:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.07-19.18.20:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.07-19.18.20:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.07-19.18.20:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.07-19.18.20:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.07-19.18.21:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.11.07-19.18.21:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.11.07-19.18.21:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.07-19.18.21:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.07-19.18.21:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.07-19.18.21:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.11.07-19.18.21:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.07-19.18.21:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.07-19.18.21:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.11.07-19.18.21:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.11.07-19.18.21:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.11.07-19.18.21:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.07-19.18.21:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.07-19.18.21:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.07-19.18.21:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.11.07-19.18.21:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.07-19.18.21:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.07-19.18.21:020][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.11.07-19.18.21:029][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.07-19.18.21:031][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.11.07-19.18.21:031][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.11.07-19.18.21:031][  0]LogTargetPlatformManager:   ADPCM
+[2022.11.07-19.18.21:031][  0]LogTargetPlatformManager:   PCM
+[2022.11.07-19.18.21:034][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.11.07-19.18.21:034][  0]LogTargetPlatformManager:   BINKA
+[2022.11.07-19.18.21:034][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.11.07-19.18.21:034][  0]LogTargetPlatformManager:   OGG
+[2022.11.07-19.18.21:034][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.11.07-19.18.21:034][  0]LogTargetPlatformManager:   OPUS
+[2022.11.07-19.18.21:079][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.11.07-19.18.21:085][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.11.07-19.18.21:085][  0]LogTargetPlatformManager:   SF_METAL
+[2022.11.07-19.18.21:085][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.11.07-19.18.21:085][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.11.07-19.18.21:085][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.11.07-19.18.21:085][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.11.07-19.18.21:085][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.11.07-19.18.21:085][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.11.07-19.18.21:085][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.11.07-19.18.21:085][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.11.07-19.18.21:085][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.11.07-19.18.21:085][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.11.07-19.18.21:085][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.11.07-19.18.21:085][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.11.07-19.18.21:085][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.11.07-19.18.21:085][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.11.07-19.18.21:088][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.11.07-19.18.21:088][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.11.07-19.18.21:088][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.11.07-19.18.21:088][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.11.07-19.18.21:088][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.11.07-19.18.21:088][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.11.07-19.18.21:088][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.11.07-19.18.21:088][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.07-19.18.21:089][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.07-19.18.21:089][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.07-19.18.21:089][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.07-19.18.21:090][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.07-19.18.21:093][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.07-19.18.21:093][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.11.07-19.18.21:093][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.07-19.18.21:093][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.11.07-19.18.21:116][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.11.07-19.18.21:117][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.07-19.18.21:117][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.11.07-19.18.21:125][  0]LogDerivedDataCache: Speed tests for C:/Users/n012782k/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.07-19.18.21:125][  0]LogDerivedDataCache: Display: Performance to C:/Users/n012782k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=990.50MBs, RandomWriteSpeed=133.76MBs. Assigned SpeedClass 'Local'
+[2022.11.07-19.18.21:127][  0]LogDerivedDataCache: Using Local data cache path C:/Users/n012782k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.07-19.18.21:127][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.07-19.18.21:127][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.11.07-19.18.21:134][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.11.07-19.18.21:134][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.11.07-19.18.21:134][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Intermediate/Shaders/WorkingDirectory/12876/).
+[2022.11.07-19.18.21:134][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/n012782k/AppData/Local/Temp/UnrealShaderWorkingDir/982FDB334A56931CC3EFB4B21DFE6972/'.
+[2022.11.07-19.18.21:135][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.07-19.18.21:135][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.11.07-19.18.22:748][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.11.07-19.18.22:748][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.07-19.18.22:748][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.07-19.18.22:784][  0]LogAssetRegistry: FAssetRegistry took 0.0126 seconds to start up
+[2022.11.07-19.18.22:789][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.11.07-19.18.23:015][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.11.07-19.18.23:015][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.11.07-19.18.23:298][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.07-19.18.23:298][  0]LogDeviceProfileManager: Active device profile: [000008C6C5A59680][000008C6B87A0000 50] WindowsEditor
+[2022.11.07-19.18.23:299][  0]LogDeviceProfileManager: Profiles: [000008C6C5A59140][000008C6B87A5000 50] Windows, [000008C6C5A59680][000008C6B87A0000 50] WindowsEditor, [000008C6C5A57540][000008C6B8727800 50] WindowsServer, [000008C6C5A57380][000008C6B86CC800 50] WindowsClient, [000008C6C5A55080][000008C6B87A2800 50] IOS, [000008C6C5A586C0][000008C6AB1FA000 50] iPadAir2, [000008C6C5A58500][000008C6C5DA2800 50] IPadPro, [000008C6C5A55940][000008C6C5DA0000 50] iPadAir3, [000008C6C5A578C0][000008C6C5DA7800 50] iPadAir4, [000008C6C5A55780][000008C6C5DAA000 50] iPadMini4, [000008C6C5A57A80][000008C6C5DAC800 50] iPadMini5, [000008C6C5A58180][000008C6BF08C800 50] iPadMini6, [000008C6C5A5C780][000008C6C5DF5000 50] iPhone6S, [000008C6C5A5CB00][000008C6C5DF2800 50] iPhone7, [000008C6C5A5C400][000008C6C5DF0000 50] iPodTouch7, [000008C6C5A5C080][000008C6C5DFA000 50] iPhone6SPlus, [000008C6C5A56580][000008C6C5DFC800 50] iPhone7Plus, [000008C6C5A547C0][000008C6C5DA5000 50] iPhoneSE, [000008C6C5A54600][000008C6C5E00000 50] iPhone8, [000008C6C5A5C240][000008C6C5E05000 50] iPhone8Plus, [000008C6C5A5BD00][000008C6C5E07800 50] iPhoneX, [000008C6C5A5BEC0][000008C6C5E0A000 50] iPhoneXS, [000008C6C5A5BB40][000008C6C5E0C800 50] iPhoneXSMax, [000008C6C5A57000][000008C6C5DF7800 50] iPhoneXR, [000008C6C5A5B980][000008C6C5E20000 50] iPhone11, [000008C6C5A56740][000008C6C5E25000 50] iPhone11Pro, [000008C6C5A5B7C0][000008C6C5E27800 50] iPhone11ProMax, [000008C6C5A555C0][000008C6C5E2A000 50] iPhoneSE2, [000008C6C5A53F00][000008C6C5E2C800 50] iPhone12Mini, [000008C6C5A55B00][000008C6C5E02800 50] iPhone12, [000008C6C5A55E80][000008C6C5E30000 50] iPhone12Pro, [000008C6C5A56040][000008C6C5E35000 50] iPhone12ProMax, [000008C6C5A57C40][000008C6C5E37800 50] iPhone13Mini, [000008C6C5A57700][000008C6C5E3A000 50] iPhone13, [000008C6C5A563C0][000008C6C5E3C800 50] iPhone13Pro, [000008C6C5A5A2C0][000008C6C5E22800 50] iPhone13ProMax, [000008C6C5A571C0][000008C6C5E50000 50] iPadPro105, [000008C6C5A54EC0][000008C6C5E55000 50] iPadPro129, [000008C6C5A5C5C0][000008C6C5E57800 50] iPadPro97, [000008C6C5A5B0C0][000008C6C5E5A000 50] iPadPro2_129, [000008C6C5A58C00][000008C6C5E5C800 50] iPad5, [000008C6C5A5A9C0][000008C6C5E32800 50] iPad6, [000008C6C5A58F80][000008C6C5E60000 50] iPad7, [000008C6C5A5A100][000008C6C5E65000 50] iPad8, [000008C6C5A58340][000008C6C5E67800 50] iPad9, [000008C6C5A594C0][000008C6C5E6A000 50] iPadPro11, [000008C6C5A55240][000008C6C5E6C800 50] iPadPro2_11, [000008C6C5A5B600][000008C6C5E52800 50] iPadPro3_11, [000008C6C5A59D80][000008C6C5E70000 50] iPadPro3_129, [000008C6C5A5C940][000008C6C5E75000 50] iPadPro4_129, [000008C6C5A56900][000008C6C5E77800 50] iPadPro5_129, [000008C6C5A58DC0][000008C6C5E7A000 50] AppleTV, [000008C6C5A55400][000008C6C5E7C800 50] AppleTV4K, [000008C6C5A58880][000008C6C5E62800 50] TVOS, [000008C6C5A5EFC0][000008C6C5E92800 50] Mac, [000008C6C5A5F340][000008C6C5E90000 50] MacEditor, [000008C6C5A5E000][000008C6C5E97800 50] MacClient, [000008C6C5A59840][000008C6C5E9A000 50] MacServer, [000008C6C5A5F500][000008C6C5E72800 50] Linux, [000008C6C5A5B280][000008C6C5E9C800 50] LinuxEditor, [000008C6C5A5DE40][000008C6C5EA0000 50] LinuxArm64Editor, [000008C6C5A55CC0][000008C6C5EA5000 50] LinuxArm64, [000008C6C5A5D200][000008C6C5EA7800 50] LinuxClient, [000008C6C5A5B440][000008C6C5EAA000 50] LinuxArm64Client, [000008C6C5A5F180][000008C6C5EAC800 50] LinuxServer, [000008C6C5A57E00][000008C6C5E95000 50] LinuxArm64Server, [000008C6C5A5AD40][000008C6C5EB0000 50] Android, [000008C6C5A5F880][000008C6C5EB5000 50] Android_Preview_OpenGL, [000008C6C5A5DC80][000008C6C5EB7800 50] Android_Preview_Vulkan, [000008C6C5A5CCC0][000008C6C5EBA000 50] Android_Low, [000008C6C5A56AC0][000008C6C5EBC800 50] Android_Mid, [000008C6C5A5CE80][000008C6C5EA2800 50] Android_High, [000008C6C5A5A640][000008C6C5EC0000 50] Android_Default, [000008C6C5A5D740][000008C6C5EC5000 50] Android_Adreno4xx, [000008C6C5A59A00][000008C6C5EC7800 50] Android_Adreno5xx_Low, [000008C6C5A5E8C0][000008C6C5ECA000 50] Android_Adreno5xx, [000008C6C5A5F6C0][000008C6C5ECC800 50] Android_Adreno6xx, [000008C6C5A5D900][000008C6C5EB2800 50] Android_Adreno6xx_Vulkan, [000008C6C5A5E1C0][000008C6C5ED0000 50] Android_Adreno7xx, [000008C6C5A56C80][000008C6C5ED5000 50] Android_Adreno7xx_Vulkan, [000008C6C5A5FA40][000008C6C5ED7800 50] Android_Mali_T6xx, [000008C6C5A5FDC0][000008C6C5EDA000 50] Android_Mali_T7xx, [000008C6C5A58A40][000008C6C5EDC800 50] Android_Mali_T8xx, [000008C6C567FDC0][000008C6C5EC2800 50] Android_Mali_G71, [000008C6C5A59F40][000008C6C5EF0000 50] Android_Mali_G72, [000008C6C5F10380][000008C6C5EF5000 50] Android_Mali_G72_Vulkan, [000008C6C5F12300][000008C6C5EF7800 50] Android_Mali_G76, [000008C6C5F12A00][000008C6C5EFA000 50] Android_Mali_G76_Vulkan, [000008C6C5F11F80][000008C6C5EFC800 50] Android_Mali_G77, [000008C6C5F12840][000008C6C5ED2800 50] Android_Mali_G77_Vulkan, [000008C6C5F11C00][000008C6C5DC0000 50] Android_Mali_G78, [000008C6C5F13100][000008C6C5DC5000 50] Android_Mali_G78_Vulkan, [000008C6C5F11880][000008C6C5DC7800 50] Android_Mali_G710, [000008C6C5F13480][000008C6C5DCA000 50] Android_Mali_G710_Vulkan, [000008C6C5F11500][000008C6C5DCC800 50] Android_Xclipse_920, [000008C6C5F12F40][000008C6C5EF2800 50] Android_Xclipse_920_Vulkan, [000008C6C5F124C0][000008C6C5F20000 50] Android_Vulkan_SM5, [000008C6C5F13D40][000008C6C5F25000 50] Android_PowerVR_G6xxx, [000008C6C5F10000][000008C6C5F27800 50] Android_PowerVR_GT7xxx, [000008C6C5F12BC0][000008C6C5F2A000 50] Android_PowerVR_GE8xxx, [000008C6C5F116C0][000008C6C5F2C800 50] Android_PowerVR_GM9xxx, [000008C6C5F10E00][000008C6C5DC2800 50] Android_PowerVR_GM9xxx_Vulkan, [000008C6C5F11DC0][000008C6C5F30000 50] Android_TegraK1, [000008C6C5F11340][000008C6C5F35000 50] Android_Unknown_Vulkan, [000008C6C5F10700][000008C6C5F37800 50] Oculus_Quest, [000008C6C5F10FC0][000008C6C5F3A000 50] Oculus_Quest2, [000008C6C5F140C0][000008C6C5F3C800 50] HoloLens, 
+[2022.11.07-19.18.23:299][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.11.07-19.18.23:302][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.11.07-19.18.23:302][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.11.07-19.18.23:302][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.11.07-19.18.23:302][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.11.07-19.18.23:302][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.11.07-19.18.23:302][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.11.07-19.18.23:302][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.11.07-19.18.23:323][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.11.07-19.18.23:528][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.07-19.18.23:528][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.07-19.18.23:528][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.07-19.18.23:528][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.07-19.18.23:528][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.07-19.18.23:545][  0]LogNetVersion: GameMech_WFC 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 613996037)
+[2022.11.07-19.18.23:672][  0]LogSlate: Border
+[2022.11.07-19.18.23:673][  0]LogSlate: BreadcrumbButton
+[2022.11.07-19.18.23:673][  0]LogSlate: Default
+[2022.11.07-19.18.23:673][  0]LogSlate: Icons.Save
+[2022.11.07-19.18.23:673][  0]LogSlate: Icons.Toolbar.Settings
+[2022.11.07-19.18.23:673][  0]LogSlate: ListView
+[2022.11.07-19.18.23:673][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.11.07-19.18.23:673][  0]LogSlate: SoftwareCursor_Grab
+[2022.11.07-19.18.23:673][  0]LogSlate: TableView.DarkRow
+[2022.11.07-19.18.23:673][  0]LogSlate: TableView.Row
+[2022.11.07-19.18.23:673][  0]LogSlate: TreeView
+[2022.11.07-19.18.23:849][  0]SourceControl: Source control is disabled
+[2022.11.07-19.18.23:878][  0]SourceControl: Source control is disabled
+[2022.11.07-19.18.23:878][  0]SourceControl: Source control is disabled
+[2022.11.07-19.18.24:008][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.11.07-19.18.24:008][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.11.07-19.18.24:008][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.07-19.18.24:359][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 77E5EFF245BD8FE3B3BB15B1110DB49F | Instance: AF3A6FE546EC91DD9C8CBF8AE39BEF0C (C117A-29-12876).
+[2022.11.07-19.18.24:390][  0]LogPython: Using Python 3.9.7
+[2022.11.07-19.18.25:200][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.07-19.18.25:204][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.07-19.18.25:306][  0]SourceControl: Source control is disabled
+[2022.11.07-19.18.25:310][  0]SourceControl: Source control is disabled
+[2022.11.07-19.18.25:315][  0]SourceControl: Source control is disabled
+[2022.11.07-19.18.25:325][  0]LogUProjectInfo: Found projects:
+[2022.11.07-19.18.25:558][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.07-19.18.25:620][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.07-19.18.25:635][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.07-19.18.25:635][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.07-19.18.25:831][  0]LogCollectionManager: Loaded 0 collections in 0.001987 seconds
+[2022.11.07-19.18.25:905][  0]LogFileCache: Scanning file cache for directory 'C:/Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/Collections/' took 0.00s
+[2022.11.07-19.18.25:905][  0]LogFileCache: Scanning file cache for directory 'C:/Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Developers/n012782k/Collections/' took 0.00s
+[2022.11.07-19.18.25:905][  0]LogFileCache: Scanning file cache for directory 'C:/Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Collections/' took 0.00s
+[2022.11.07-19.18.26:192][  0]LogEngine: Initializing Engine...
+[2022.11.07-19.18.26:205][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.11.07-19.18.26:207][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.07-19.18.26:465][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.07-19.18.26:465][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.07-19.18.26:477][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.07-19.18.26:508][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.07-19.18.26:508][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.07-19.18.26:532][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.07-19.18.26:532][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.07-19.18.26:532][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.11.07-19.18.26:533][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.07-19.18.26:533][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.07-19.18.26:533][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.07-19.18.26:533][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.07-19.18.26:533][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.07-19.18.26:533][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.07-19.18.26:533][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.07-19.18.26:533][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.07-19.18.26:533][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.07-19.18.26:533][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.07-19.18.26:533][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.07-19.18.26:533][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.07-19.18.26:533][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.07-19.18.26:541][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.07-19.18.26:569][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.11.07-19.18.26:570][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.07-19.18.26:572][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.07-19.18.26:572][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.07-19.18.26:572][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.11.07-19.18.26:572][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.07-19.18.26:573][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.07-19.18.26:574][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.11.07-19.18.26:574][  0]LogInit: FAudioDevice initialized.
+[2022.11.07-19.18.26:574][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.07-19.18.26:574][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.07-19.18.26:574][  0]LogInit: Texture streaming: Enabled
+[2022.11.07-19.18.26:611][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.11.07-19.18.26:620][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.07-19.18.26:645][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.11.07-19.18.26:653][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.11.07-19.18.26:653][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: GameMech_WFCEditor Win64 Development
+[2022.11.07-19.18.27:821][  0]LogLiveCoding: Display: First instance in process group "UE_GameMech_WFC_0x1c507853", spawning console
+[2022.11.07-19.18.27:821][  0]LogLiveCoding: Display: Waiting for server
+[2022.11.07-19.18.27:821][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.11.07-19.18.27:849][  0]LogInit: Transaction tracking system initialized
+[2022.11.07-19.18.27:932][  0]BlueprintLog: New page: Editor Load
+[2022.11.07-19.18.28:149][  0]LocalizationService: Localization service is disabled
+[2022.11.07-19.18.28:204][  0]TimingProfiler: Initialize
+[2022.11.07-19.18.28:204][  0]TimingProfiler: OnSessionChanged
+[2022.11.07-19.18.28:204][  0]LoadingProfiler: Initialize
+[2022.11.07-19.18.28:204][  0]LoadingProfiler: OnSessionChanged
+[2022.11.07-19.18.28:204][  0]NetworkingProfiler: Initialize
+[2022.11.07-19.18.28:204][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.07-19.18.28:204][  0]MemoryProfiler: Initialize
+[2022.11.07-19.18.28:204][  0]MemoryProfiler: OnSessionChanged
+[2022.11.07-19.18.28:858][  0]LogFileCache: Scanning file cache for directory 'C:/Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/' took 0.00s
+[2022.11.07-19.18.28:858][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.11.07-19.18.28:946][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.07-19.18.28:947][  0]SourceControl: Source control is disabled
+[2022.11.07-19.18.28:947][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.002
+[2022.11.07-19.18.28:948][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.07-19.18.28:948][  0]LightingResults: New page: Lighting Build
+[2022.11.07-19.18.28:958][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-19.18.28:958][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-19.18.28:958][  0]MapCheck: New page: Map Check
+[2022.11.07-19.18.28:958][  0]LightingResults: New page: Lighting Build
+[2022.11.07-19.18.28:964][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.07-19.18.28:967][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.11.07-19.18.29:015][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.11.07-19.18.29:021][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.07-19.18.29:022][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.11.07-19.18.29:022][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.07-19.18.29:022][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.11.07-19.18.29:297][  0]LogWorldPartition: Display: WorldPartition initialize took 274 ms
+[2022.11.07-19.18.29:492][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.07-19.18.29:499][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.07-19.18.29:500][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.07-19.18.29:511][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 11.172ms to complete.
+[2022.11.07-19.18.29:511][  0]LogFileHelpers: Loading map 'OpenWorld' took 0.564
+[2022.11.07-19.18.29:522][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.576
+[2022.11.07-19.18.29:522][  0]LogShaderCompilers: Display: ================================================
+[2022.11.07-19.18.29:522][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.07-19.18.29:522][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.07-19.18.29:522][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.07-19.18.29:522][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.11.07-19.18.29:522][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.07-19.18.29:522][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.07-19.18.29:522][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.07-19.18.29:522][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.07-19.18.29:522][  0]LogShaderCompilers: Display: ================================================
+[2022.11.07-19.18.29:655][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-19.18.29:661][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-19.18.29:667][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-19.18.29:672][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-19.18.29:735][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.11.07-19.18.29:735][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.07-19.18.29:740][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.11.07-19.18.29:741][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.07-19.18.29:746][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.11.07-19.18.29:746][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.07-19.18.29:750][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.11.07-19.18.29:750][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.07-19.18.29:761][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.11.07-19.18.29:761][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.07-19.18.29:766][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.11.07-19.18.29:766][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.07-19.18.29:770][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.11.07-19.18.29:770][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.07-19.18.29:775][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.11.07-19.18.29:775][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.07-19.18.29:779][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.11.07-19.18.29:779][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.07-19.18.29:785][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.11.07-19.18.29:785][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.07-19.18.29:785][  0]LogFeaturePack: Error: Error in Feature pack C:/Epic/UE5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.11.07-19.18.29:974][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.07-19.18.29:977][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.07-19.18.29:983][  0]LogSlate: Took 0.005077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.07-19.18.30:000][  0]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2022.11.07-19.18.30:592][  0]LogStall: Startup...
+[2022.11.07-19.18.30:595][  0]LogStall: Startup complete.
+[2022.11.07-19.18.30:623][  0]LogLoad: (Engine Initialization) Total time: 11.68 seconds
+[2022.11.07-19.18.30:623][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.07-19.18.30:642][  0]LogAssetRegistry: Asset discovery search completed in 7.8608 seconds
+[2022.11.07-19.18.30:647][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.11.07-19.18.30:647][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.07-19.18.30:696][  0]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.07-19.18.37:043][466]LogViewport: Scene viewport resized to 760x902, mode Windowed.
+[2022.11.07-19.18.38:433][580]LogSlate: Took 0.004357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.07-19.18.38:437][580]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.07-19.18.39:442][672]LogStatusBar: Looking status bar with open content browser drawer...
+[2022.11.07-19.18.39:442][672]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2022.11.07-19.18.39:460][672]LogViewport: Scene viewport resized to 760x585, mode Windowed.
+[2022.11.07-19.18.40:422][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.07-19.18.40:475][747]LogAssetEditorSubsystem: Opening Asset editor for World /Game/NewMap.NewMap
+[2022.11.07-19.18.40:476][747]Cmd: MAP LOAD FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.07-19.18.40:476][747]LightingResults: New page: Lighting Build
+[2022.11.07-19.18.40:476][747]LoadErrors: New page: Loading map: NewMap.umap
+[2022.11.07-19.18.40:501][747]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-19.18.40:501][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-19.18.40:502][747]MapCheck: New page: Map Check
+[2022.11.07-19.18.40:502][747]LightingResults: New page: Lighting Build
+[2022.11.07-19.18.40:508][747]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.07-19.18.40:519][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.07-19.18.40:527][747]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-19.18.40:528][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-19.18.40:534][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.11.07-19.18.40:540][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.07-19.18.40:544][747]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2022.11.07-19.18.40:544][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.07-19.18.40:545][747]LogAIModule: Creating AISystem for world NewMap
+[2022.11.07-19.18.40:545][747]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.07-19.18.40:545][747]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.11.07-19.18.40:562][747]LogWorldPartition: Display: WorldPartition initialize took 17 ms
+[2022.11.07-19.18.40:577][747]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.07-19.18.40:585][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.07-19.18.40:592][747]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.07-19.18.40:593][747]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.252ms to complete.
+[2022.11.07-19.18.40:593][747]LogFileHelpers: Loading map 'NewMap' took 0.117
+[2022.11.07-19.18.42:322][944]LogViewport: Scene viewport resized to 772x585, mode Windowed.
+[2022.11.07-19.18.42:367][946]LogViewport: Scene viewport resized to 825x585, mode Windowed.
+[2022.11.07-19.18.42:404][948]LogViewport: Scene viewport resized to 932x585, mode Windowed.
+[2022.11.07-19.18.42:458][950]LogViewport: Scene viewport resized to 1020x585, mode Windowed.
+[2022.11.07-19.18.42:498][952]LogViewport: Scene viewport resized to 1082x585, mode Windowed.
+[2022.11.07-19.18.42:538][954]LogViewport: Scene viewport resized to 1103x585, mode Windowed.
+[2022.11.07-19.18.42:577][956]LogViewport: Scene viewport resized to 1108x585, mode Windowed.
+[2022.11.07-19.18.44:308][144]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Grid/BP_Grid.BP_Grid
+[2022.11.07-19.18.44:308][144]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.07-19.18.45:833][144]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.07-19.20.21:131][930]LogDerivedDataCache: C:/Users/n012782k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.07-19.21.04:862][723]BlueprintLog: New page: Compile BP_Grid
+[2022.11.07-19.21.04:903][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.07-19.21.05:137][747]BlueprintLog: New page: Compile BP_Grid
+[2022.11.07-19.21.05:182][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.07-19.21.05:769][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/BP_Grid" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/BP_Grid.uasset" SILENT=true
+[2022.11.07-19.21.05:774][806]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.005534 seconds
+[2022.11.07-19.21.05:785][806]LogSavePackage: Moving output files for package: /Game/Grid/BP_Grid
+[2022.11.07-19.21.05:786][806]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/BP_Grid841E1C9649058E42F915EEBFCEF2A3E5.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/BP_Grid.uasset'
+[2022.11.07-19.21.05:798][806]AssetCheck: New page: Asset Save: BP_Grid
+[2022.11.07-19.21.05:798][806]LogContentValidation: Display: Validating Blueprint /Game/Grid/BP_Grid.BP_Grid
+[2022.11.07-19.21.23:583][196]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.11.07-19.21.58:766][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/BP_Grid" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/BP_Grid.uasset" SILENT=true
+[2022.11.07-19.21.58:775][180]LogSavePackage: Moving output files for package: /Game/Grid/BP_Grid
+[2022.11.07-19.21.58:776][180]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/BP_Grid8586BEE540EFE24AF454D8A81F0683BB.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/BP_Grid.uasset'
+[2022.11.07-19.21.58:788][180]AssetCheck: New page: Asset Save: BP_Grid
+[2022.11.07-19.21.58:788][180]LogContentValidation: Display: Validating Blueprint /Game/Grid/BP_Grid.BP_Grid
+[2022.11.07-19.21.59:387][251]BlueprintLog: New page: Compile BP_Grid
+[2022.11.07-19.21.59:433][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.11.07-19.22.10:316][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/BP_Grid" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/BP_Grid.uasset" SILENT=true
+[2022.11.07-19.22.10:324][411]LogSavePackage: Moving output files for package: /Game/Grid/BP_Grid
+[2022.11.07-19.22.10:324][411]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/BP_Grid2DBF8B0D455019AD6A8BB0A488332802.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/BP_Grid.uasset'
+[2022.11.07-19.22.10:335][411]AssetCheck: New page: Asset Save: BP_Grid
+[2022.11.07-19.22.10:335][411]LogContentValidation: Display: Validating Blueprint /Game/Grid/BP_Grid.BP_Grid
+[2022.11.07-19.23.56:482][520]BlueprintLog: New page: Compile BP_Grid
+[2022.11.07-19.23.56:527][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.11.07-19.23.56:983][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/BP_Grid" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/BP_Grid.uasset" SILENT=true
+[2022.11.07-19.23.56:994][566]LogSavePackage: Moving output files for package: /Game/Grid/BP_Grid
+[2022.11.07-19.23.56:995][566]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/BP_GridC73F29124BBA8299F2E015BADB9F92CD.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/BP_Grid.uasset'
+[2022.11.07-19.23.57:009][566]AssetCheck: New page: Asset Save: BP_Grid
+[2022.11.07-19.23.57:009][566]LogContentValidation: Display: Validating Blueprint /Game/Grid/BP_Grid.BP_Grid
+[2022.11.07-19.30.02:855][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.11.07-19.30.02:856][301]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.025
+[2022.11.07-19.30.02:858][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Grid/BP_Grid] ([2] browsable assets)...
+[2022.11.07-19.30.02:858][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Grid/BP_Grid]
+[2022.11.07-19.30.02:866][301]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Grid/BP_Grid_Auto1
+[2022.11.07-19.30.02:866][301]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/BP_Grid_Auto12F870F394848D5FE20D69FBD0C4C5914.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/Autosaves/Game/Grid/BP_Grid_Auto1.uasset'
+[2022.11.07-19.30.02:867][301]LogFileHelpers: Auto-saving content packages took 0.011
+[2022.11.07-19.32.41:909][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/BP_Grid" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/BP_Grid.uasset" SILENT=true
+[2022.11.07-19.32.41:917][902]LogSavePackage: Moving output files for package: /Game/Grid/BP_Grid
+[2022.11.07-19.32.41:917][902]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/BP_GridE856B8D44806F071686F7F95BAB4B9B7.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/BP_Grid.uasset'
+[2022.11.07-19.32.41:931][902]AssetCheck: New page: Asset Save: BP_Grid
+[2022.11.07-19.32.41:931][902]LogContentValidation: Display: Validating Blueprint /Game/Grid/BP_Grid.BP_Grid
+[2022.11.07-19.32.42:227][937]BlueprintLog: New page: Compile BP_Grid
+[2022.11.07-19.32.42:262][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.11.07-19.33.11:504][254]LogViewport: Scene viewport resized to 1108x590, mode Windowed.
+[2022.11.07-19.33.11:605][254]LogViewport: Scene viewport resized to 1108x585, mode Windowed.
+[2022.11.07-19.36.29:003][348]Cmd: SELECT NONE
+[2022.11.07-19.36.29:860][450]Cmd: SELECT NONE
+[2022.11.07-19.57.52:698][457]Cmd: DELETE
+[2022.11.07-19.57.52:698][457]Cmd: ACTOR DELETE
+[2022.11.07-19.58.41:180][894]Cmd: DELETE
+[2022.11.07-19.58.41:180][894]Cmd: ACTOR DELETE
+[2022.11.07-19.59.46:027][139]LogContentBrowser: Deferred new asset file creation: NewPaperTileMap
+[2022.11.07-19.59.46:031][139]LogContentBrowser: Creating deferred item: NewPaperTileMap
+[2022.11.07-19.59.46:038][140]LogContentBrowser: Renaming the item being created (Deferred Item: NewPaperTileMap).
+[2022.11.07-19.59.47:172][265]LogContentBrowser: Attempting asset rename: NewPaperTileMap -> NewPaperTileMap
+[2022.11.07-19.59.47:177][265]LogContentBrowser: End creating deferred item NewPaperTileMap
+[2022.11.07-19.59.47:752][322]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/Grid/NewPaperTileMap.NewPaperTileMap
+[2022.11.07-19.59.47:753][322]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/Grid/NewPaperTileMap.NewPaperTileMap
+[2022.11.07-19.59.47:757][322]LogActorFactory: Actor Factory spawned PaperTileMap /Game/Grid/NewPaperTileMap.NewPaperTileMap as actor: PaperTileMapActor /Game/NewMap.NewMap:PersistentLevel.PaperTileMapActor_0
+[2022.11.07-19.59.47:758][322]LogActorFactory: Actor Factory spawned PaperTileMap /Game/Grid/NewPaperTileMap.NewPaperTileMap as actor: PaperTileMapActor /Game/NewMap.NewMap:PersistentLevel.PaperTileMapActor_0
+[2022.11.07-19.59.48:144][367]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/Grid/NewPaperTileMap.NewPaperTileMap
+[2022.11.07-19.59.48:144][367]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/Grid/NewPaperTileMap.NewPaperTileMap
+[2022.11.07-19.59.48:146][367]LogActorFactory: Actor Factory spawned PaperTileMap /Game/Grid/NewPaperTileMap.NewPaperTileMap as actor: PaperTileMapActor /Game/NewMap.NewMap:PersistentLevel.PaperTileMapActor_UAID_5081402FF2AB784701_1537297255
+[2022.11.07-19.59.48:146][367]LogActorFactory: Actor Factory spawned PaperTileMap /Game/Grid/NewPaperTileMap.NewPaperTileMap as actor: PaperTileMapActor /Game/NewMap.NewMap:PersistentLevel.PaperTileMapActor_UAID_5081402FF2AB784701_1537297255
+[2022.11.07-19.59.57:839][480]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.07-20.00.34:216][722]Cmd: TRANSACTION UNDO
+[2022.11.07-20.00.34:216][722]LogEditorTransaction: Undo Set Scale
+[2022.11.07-20.00.40:427][375]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Grid/NewPaperTileMap.NewPaperTileMap
+[2022.11.07-20.00.40:429][375]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.07-20.00.40:531][375]LogViewport: Scene viewport resized to 272x428, mode Windowed.
+[2022.11.07-20.00.40:549][375]LogViewport: Scene viewport resized to 757x538, mode Windowed.
+[2022.11.07-20.00.42:353][552]LogViewport: Scene viewport resized to 271x451, mode Windowed.
+[2022.11.07-20.00.42:368][552]LogViewport: Scene viewport resized to 754x561, mode Windowed.
+[2022.11.07-20.00.42:431][554]LogViewport: Scene viewport resized to 168x209, mode Windowed.
+[2022.11.07-20.00.42:447][554]LogViewport: Scene viewport resized to 479x319, mode Windowed.
+[2022.11.07-20.00.42:762][590]LogViewport: Scene viewport resized to 427x792, mode Windowed.
+[2022.11.07-20.00.42:779][590]LogViewport: Scene viewport resized to 1170x902, mode Windowed.
+[2022.11.07-20.00.43:073][622]LogSlate: Window 'NewPaperTileMap*' being destroyed
+[2022.11.07-20.01.13:833][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.07-20.01.13:841][599]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/NewMap/5/FX/2UI3W81PYEMKIL99H63WYX_Auto2
+[2022.11.07-20.01.13:842][599]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/2UI3W81PYEMKIL99H63WYX_Auto2D64665C04FB98066F775FE835ECC4B83.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/Autosaves/Game/__ExternalActors__/NewMap/5/FX/2UI3W81PYEMKIL99H63WYX_Auto2.uasset'
+[2022.11.07-20.01.13:842][599]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.045
+[2022.11.07-20.01.13:842][599]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2022.11.07-20.04.38:517][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.11.07-20.04.39:773][226]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.07-20.04.39:831][226]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-20.04.39:831][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-20.04.39:859][226]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Grid/NewPaperTileMap.NewPaperTileMap
+	Asset Type: PaperTileMap
+[2022.11.07-20.04.40:115][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.11.07-20.04.40:140][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.11.07-20.04.40:162][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.07-20.04.43:086][565]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-20.04.43:086][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-20.05.39:052][964]LogViewport: Scene viewport resized to 899x585, mode Windowed.
+[2022.11.07-20.05.41:990][288]LogViewport: Scene viewport resized to 1028x585, mode Windowed.
+[2022.11.07-20.05.47:222][826]LogViewport: Scene viewport resized to 610x585, mode Windowed.
+[2022.11.07-20.05.56:372][430]LogViewport: Scene viewport resized to 1108x585, mode Windowed.
+[2022.11.07-20.05.58:132][625]LogViewport: Scene viewport resized to 610x585, mode Windowed.
+[2022.11.07-20.05.58:957][710]LogViewport: Scene viewport resized to 1028x585, mode Windowed.
+[2022.11.07-20.06.23:786][803]LogViewport: Scene viewport resized to 1019x585, mode Windowed.
+[2022.11.07-20.06.23:830][805]LogViewport: Scene viewport resized to 1003x585, mode Windowed.
+[2022.11.07-20.06.23:867][807]LogViewport: Scene viewport resized to 999x585, mode Windowed.
+[2022.11.07-20.06.23:903][809]LogViewport: Scene viewport resized to 984x585, mode Windowed.
+[2022.11.07-20.06.23:937][811]LogViewport: Scene viewport resized to 974x585, mode Windowed.
+[2022.11.07-20.06.23:970][813]LogViewport: Scene viewport resized to 966x585, mode Windowed.
+[2022.11.07-20.06.24:003][815]LogViewport: Scene viewport resized to 941x585, mode Windowed.
+[2022.11.07-20.06.24:038][817]LogViewport: Scene viewport resized to 910x585, mode Windowed.
+[2022.11.07-20.06.24:073][819]LogViewport: Scene viewport resized to 875x585, mode Windowed.
+[2022.11.07-20.06.24:115][821]LogViewport: Scene viewport resized to 826x585, mode Windowed.
+[2022.11.07-20.06.24:147][823]LogViewport: Scene viewport resized to 800x585, mode Windowed.
+[2022.11.07-20.06.24:180][825]LogViewport: Scene viewport resized to 776x585, mode Windowed.
+[2022.11.07-20.06.24:479][859]LogViewport: Scene viewport resized to 780x585, mode Windowed.
+[2022.11.07-20.06.24:506][860]LogViewport: Scene viewport resized to 791x585, mode Windowed.
+[2022.11.07-20.06.24:589][864]LogViewport: Scene viewport resized to 812x585, mode Windowed.
+[2022.11.07-20.06.24:723][878]LogViewport: Scene viewport resized to 817x585, mode Windowed.
+[2022.11.07-20.06.24:754][879]LogViewport: Scene viewport resized to 836x585, mode Windowed.
+[2022.11.07-20.07.43:296][974]Cmd: DELETE
+[2022.11.07-20.07.43:296][974]Cmd: ACTOR DELETE
+[2022.11.07-20.07.43:307][974]LogEditorActor: Deleted Actor: PaperTileMapActor
+[2022.11.07-20.07.43:308][974]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperTileMapComponent /Game/NewMap.NewMap:PersistentLevel.PaperTileMapActor_UAID_5081402FF2AB784701_1537297255.RenderComponent)
+[2022.11.07-20.07.43:329][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.07-20.07.43:334][974]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2022.11.07-20.07.53:459][147]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/EngineSky/SM_SkySphere.SM_SkySphere
+[2022.11.07-20.09.54:627][777]LogViewport: Scene viewport resized to 836x902, mode Windowed.
+[2022.11.07-20.10.05:825][569]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/EngineSky/SM_SkySphere.SM_SkySphere
+[2022.11.07-20.10.06:525][597]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/EngineSky/SM_SkySphere.SM_SkySphere
+[2022.11.07-20.11.42:175][764]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/EngineSky/SM_SkySphere.SM_SkySphere
+[2022.11.07-20.11.49:825][587]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/EngineSky/SM_SkySphere.SM_SkySphere
+[2022.11.07-20.12.00:158][706]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/EngineSky/SM_SkySphere.SM_SkySphere
+[2022.11.07-20.12.00:809][729]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/EngineSky/SM_SkySphere.SM_SkySphere
+[2022.11.07-20.12.02:344][734]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/EngineSky/SM_SkySphere.SM_SkySphere
+[2022.11.07-20.14.00:328][384]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.07-20.14.00:440][384]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.11.07-20.14.14:155][814]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.07-20.14.14:160][814]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.07-20.14.17:798][215]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.07-20.14.17:866][215]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.11.07-20.15.24:853][982]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.07-20.15.24:859][982]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.07-20.15.31:605][770]LogViewport: Scene viewport resized to 950x902, mode Windowed.
+[2022.11.07-20.15.38:069][482]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5A4D8B0591E527BB7AC0627C7C6A73118E92C06D), compiling. 
+[2022.11.07-20.15.38:143][482]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 41E89715871E446ED61CDCBE917D4EF1D31F1982), compiling. 
+[2022.11.07-20.15.38:181][482]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E247823F3D62FB6883F0B31FA64FC8885F8D3CD9), compiling. 
+[2022.11.07-20.15.38:221][482]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 8D9137D5DC4AC56139AFC4AFFFFD8078A320EDC6), compiling. 
+[2022.11.07-20.15.38:261][482]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 43B45CADCF8C6C5AA6387FD6D9A517D5E4909CAC), compiling. 
+[2022.11.07-20.15.38:310][482]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_5 in PCD3D_SM5, Default, SM5 (DDC key hash: F57F15EC27E162F45728F47418A26CAE955E3105), compiling. 
+[2022.11.07-20.15.38:360][482]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_6 in PCD3D_SM5, Default, SM5 (DDC key hash: BDA2DF8D4C901C8793C450F28F1DC24429C8DB46), compiling. 
+[2022.11.07-20.15.38:461][482]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_7 in PCD3D_SM5, Default, SM5 (DDC key hash: A043CB9DFC8C8E97841633236986AE89D1D96B1B), compiling. 
+[2022.11.07-20.15.38:504][482]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_8 in PCD3D_SM5, Default, SM5 (DDC key hash: 2FA80219A01D784DFD8BF422C2D1E76330839797), compiling. 
+[2022.11.07-20.15.38:553][482]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_9 in PCD3D_SM5, Default, SM5 (DDC key hash: 747FE5AC3DF19D96256FE5E40E2520483C7C8160), compiling. 
+[2022.11.07-20.15.38:605][482]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_10 in PCD3D_SM5, Default, SM5 (DDC key hash: EB53E833A7B2A0EBA043F1BD7D5DE0FD43C01192), compiling. 
+[2022.11.07-20.15.38:671][482]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_11 in PCD3D_SM5, Default, SM5 (DDC key hash: ECC9BBAEA3CF23B4E9333F153A0C86D02A669C8F), compiling. 
+[2022.11.07-20.15.38:740][482]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_12 in PCD3D_SM5, Default, SM5 (DDC key hash: C0E3622C758CF4C42B1A416CF820A6C0188F4BA1), compiling. 
+[2022.11.07-20.15.38:810][482]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_14 in PCD3D_SM5, Default, SM5 (DDC key hash: DB5E1AA463FA346F22DFC270AEB3207BF38CF868), compiling. 
+[2022.11.07-20.15.39:022][483]LogTexture: Display: Building textures: /Engine/Transient.Texture2D_6 (G8, 128X128 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display: ================================================
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display: Total job queries 344, among them cache hits 0 (0.00%)
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display: Tracking 5 distinct input hashes that result in 4 distinct outputs (80.00%)
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display: Shaders Compiled: 344
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display: Jobs assigned 78, completed 5 (6.41%)
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display: Time job spent in pending queue: average 0.69 s, longest 5.59 s
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display: Job execution time: average 5.60 s, max 5.60 s
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display: Job life time (pending + execution): average 5.70 s, max 5.70
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.70 s
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 8.67 jobs/batch
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display: Average processing rate: 0.88 jobs/sec
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display: Effective parallelization: 0.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 1.37 sec, max 1.37 sec, min 1.37 sec)
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    1 times, average 1.32 sec, max 1.32 sec, min 1.32 sec)
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display:                                                 FLumenCardVS - 26.24% of total time (compiled    1 times, average 1.37 sec, max 1.37 sec, min 1.37 sec)
+[2022.11.07-20.15.43:846][756]LogShaderCompilers: Display:                                             FDebugViewModeVS - 25.23% of total time (compiled    1 times, average 1.32 sec, max 1.32 sec, min 1.32 sec)
+[2022.11.07-20.15.43:847][756]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.69% of total time (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2022.11.07-20.15.43:847][756]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 20.78% of total time (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2022.11.07-20.15.43:847][756]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 6.06% of total time (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2022.11.07-20.15.43:847][756]LogShaderCompilers: Display: ================================================
+[2022.11.07-20.16.02:293][ 60]LogViewport: Scene viewport resized to 836x902, mode Windowed.
+[2022.11.07-20.16.15:355][805]LogStaticMesh: Display: Building static mesh Path_CC167348...
+[2022.11.07-20.16.15:355][805]LogStaticMesh: Built static mesh [0.01s] /Game/_GENERATED/n012782k/Path_CC167348.Path_CC167348
+[2022.11.07-20.16.16:892][805]LogStaticMesh: Display: Building static mesh Path_CC167348...
+[2022.11.07-20.16.16:892][805]LogStaticMesh: Built static mesh [0.01s] /Game/_GENERATED/n012782k/Path_CC167348.Path_CC167348
+[2022.11.07-20.16.16:892][805]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 65% occupied, 10 triangles, Path_CC167348
+[2022.11.07-20.16.18:510][904]LogMeshUtilities: Finished distance field build in 1.6s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 65% occupied, 10 triangles, Path_CC167348
+[2022.11.07-20.16.20:889][997]Cmd: DELETE
+[2022.11.07-20.16.20:889][997]Cmd: ACTOR DELETE
+[2022.11.07-20.16.20:890][997]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.07-20.16.20:976][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.11.07-20.16.20:982][997]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2022.11.07-20.16.23:631][310]Cmd: SELECT NONE
+[2022.11.07-20.16.50:032][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.11.07-20.16.50:044][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L_Auto3
+[2022.11.07-20.16.50:044][678]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/D90LOZ6OX06T5XEND5R79L_Auto3E3189A03406C1785EDCF29AEF9D1A830.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/Autosaves/Game/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L_Auto3.uasset'
+[2022.11.07-20.16.50:045][678]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.062
+[2022.11.07-20.16.50:045][678]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2022.11.07-20.16.50:046][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/n012782k/Path_CC167348] ([1] browsable assets)...
+[2022.11.07-20.16.50:109][678]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/n012782k/Path_CC167348.Path_CC167348]
+[2022.11.07-20.16.50:109][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/n012782k/Path_CC167348]
+[2022.11.07-20.16.50:113][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/n012782k/Path_CC167348_Auto3
+[2022.11.07-20.16.50:113][678]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/Path_CC167348_Auto392F21B5747B68049BFC30EA23D362DA5.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/Autosaves/Game/_GENERATED/n012782k/Path_CC167348_Auto3.uasset'
+[2022.11.07-20.16.50:114][678]LogFileHelpers: Auto-saving content packages took 0.070
+[2022.11.07-20.17.41:936][ 84]LogViewport: Scene viewport resized to 844x902, mode Windowed.
+[2022.11.07-20.17.41:963][ 85]LogViewport: Scene viewport resized to 858x902, mode Windowed.
+[2022.11.07-20.17.42:039][ 91]LogViewport: Scene viewport resized to 875x902, mode Windowed.
+[2022.11.07-20.17.42:080][ 93]LogViewport: Scene viewport resized to 905x902, mode Windowed.
+[2022.11.07-20.17.42:119][ 95]LogViewport: Scene viewport resized to 937x902, mode Windowed.
+[2022.11.07-20.17.42:155][ 97]LogViewport: Scene viewport resized to 950x902, mode Windowed.
+[2022.11.07-20.17.45:437][444]LogViewport: Scene viewport resized to 950x585, mode Windowed.
+[2022.11.07-20.20.21:449][618]LogDerivedDataCache: C:/Users/n012782k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.008 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.07-20.21.15:080][127]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.07-20.21.17:839][127]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.07-20.21.17:847][127]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.07-20.21.17:852][127]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.07-20.21.17:863][128]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.07-20.21.28:566][394]LogContentBrowser: Attempting asset rename: NewBlueprint -> GridGenerator
+[2022.11.07-20.21.28:571][394]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.07-20.23.08:101][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.07-20.23.10:760][463]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.07-20.23.10:789][463]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/_GENERATED/GridGenerator.GridGenerator
+	Asset Type: Blueprint
+	Asset Name: /Game/_GENERATED/n012782k/Path_CC167348.Path_CC167348
+	Asset Type: StaticMesh
+[2022.11.07-20.23.11:002][463]LogWorldPartition: Warning: Actor /Game/NewMap.NewMap:PersistentLevel.PaperTileMapActor_UAID_5081402FF2AB784701_1537297255 is unreachable without properly detaching object /Game/__ExternalActors__/NewMap/5/FX/2UI3W81PYEMKIL99H63WYX.PackageMetaData in its package
+[2022.11.07-20.23.11:003][463]LogWorldPartition: Warning: Actor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_5081402FF2AB794701_1450781432 is unreachable without properly detaching object /Game/__ExternalActors__/NewMap/0/HP/HCSTS6WGJWZ01Y72I9CVTI.PackageMetaData in its package
+[2022.11.07-20.23.11:008][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.11.07-20.23.11:027][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.11.07-20.23.11:045][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.11.07-20.23.11:069][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.07-20.23.26:046][ 75]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.07-20.23.26:117][ 75]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.11.07-20.24.04:916][211]LogSlate: Window 'New Channel' being destroyed
+[2022.11.07-20.24.59:215][609]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.07-20.24.59:220][609]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.07-20.25.01:667][874]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L
+[2022.11.07-20.25.01:668][874]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/D90LOZ6OX06T5XEND5R79L676102FE4B63A389E957D99A03711B26.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L.uasset'
+[2022.11.07-20.25.01:670][874]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/C/YW/EW2BL5Q26VV2HHM41I7NL8
+[2022.11.07-20.25.01:670][874]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/EW2BL5Q26VV2HHM41I7NL8D7EA8438461F4B7617BE6EA71147D21D.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/__ExternalObjects__/NewMap/C/YW/EW2BL5Q26VV2HHM41I7NL8.uasset'
+[2022.11.07-20.25.01:672][874]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/E/WB/Z7JVJQ60KJGPF6HC2USTIF
+[2022.11.07-20.25.01:672][874]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/Z7JVJQ60KJGPF6HC2USTIFAA644A054B7FA67C3894939AEDFEB1BE.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/__ExternalObjects__/NewMap/E/WB/Z7JVJQ60KJGPF6HC2USTIF.uasset'
+[2022.11.07-20.25.01:674][874]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/0/RP/Y6IVB8PJU3IANOR9U2OQU8
+[2022.11.07-20.25.01:674][874]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/Y6IVB8PJU3IANOR9U2OQU8BB16919348EC1F644F4AB7BEEC19DF4B.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/__ExternalObjects__/NewMap/0/RP/Y6IVB8PJU3IANOR9U2OQU8.uasset'
+[2022.11.07-20.25.01:687][874]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-20.25.01:688][874]LogContentValidation: Display: Validating StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+[2022.11.07-20.25.01:688][874]LogContentValidation: Display: Validating ActorFolder /Game/NewMap.NewMap:PersistentLevel.ActorFolder_UID_9E61DE50-424BC759-820EA780-E8CD1A97
+[2022.11.07-20.25.01:688][874]LogContentValidation: Display: Validating ActorFolder /Game/NewMap.NewMap:PersistentLevel.ActorFolder_UID_2B9E7097-4AFFBF4F-1624F286-5BF4497D
+[2022.11.07-20.25.01:688][874]LogContentValidation: Display: Validating ActorFolder /Game/NewMap.NewMap:PersistentLevel.ActorFolder_UID_FCB07AB2-4029A68C-80D7AAB0-B51A043A
+[2022.11.07-20.25.04:254][ 55]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.07-20.25.04:261][ 55]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.07-20.25.04:266][ 55]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.07-20.25.04:276][ 56]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.07-20.25.20:019][920]LogContentBrowser: Attempting asset rename: NewBlueprint -> bp_GridActor
+[2022.11.07-20.25.20:024][920]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.07-20.25.26:181][485]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.07-20.25.26:189][485]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.07-20.25.26:194][485]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.07-20.25.26:203][486]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.07-20.25.40:864][237]LogContentBrowser: Attempting asset rename: NewBlueprint -> bp_PlacementObject
+[2022.11.07-20.25.40:868][237]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.07-20.25.50:492][968]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.07-20.25.50:504][968]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.07-20.25.50:513][969]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.11.07-20.25.53:645][339]LogContentBrowser: Attempting asset rename: NewFolder -> Test1
+[2022.11.07-20.25.53:645][339]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.07-20.25.56:425][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:425][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid_C' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:425][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:425][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:425][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:425][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid:CreateMaterialInstance.K2Node_FunctionEntry_0' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:425][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid:GridWidth.K2Node_FunctionEntry_0' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:425][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid:CreateLine.K2Node_FunctionEntry_0' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:425][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid:TileToGridLocation.K2Node_FunctionResult_0' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:425][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid:LocationToTiles.K2Node_FunctionEntry_0' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:425][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid:LocationToTiles.K2Node_FunctionResult_0' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:425][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid:SetSelectedTile.K2Node_FunctionEntry_0' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:425][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid:TileValid.K2Node_Tunnel_1' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:425][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid:TileValid.K2Node_Tunnel_0' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:425][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid:TileToGridLocation.K2Node_FunctionEntry_0' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:425][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.SKEL_BP_Grid_C' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.SKEL_BP_Grid_C:CreateMaterialInstance' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.SKEL_BP_Grid_C:GridHeight' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.SKEL_BP_Grid_C:GridWidth' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.SKEL_BP_Grid_C:CreateLine' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.SKEL_BP_Grid_C:UserConstructionScript' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.SKEL_BP_Grid_C:ReceiveTick' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.SKEL_BP_Grid_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.SKEL_BP_Grid_C:ReceiveBeginPlay' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid:CreateMaterialInstance.K2Node_FunctionResult_0' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid_C:SetSelectedTile' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid_C:TileToGridLocation' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid_C:LocationToTiles' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid_C:CreateMaterialInstance' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid_C:GridHeight' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid_C:GridWidth' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid_C:CreateLine' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.BP_Grid_C:UserConstructionScript' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.SKEL_BP_Grid_C:SetSelectedTile' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.SKEL_BP_Grid_C:TileToGridLocation' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:426][634]LogMetaData: Removing '/Game/Grid/Test1/BP_Grid.SKEL_BP_Grid_C:LocationToTiles' ref from Metadata '/Game/Grid/BP_Grid.PackageMetaData'
+[2022.11.07-20.25.56:478][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test1/M_Grid" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test1/M_Grid.uasset" SILENT=true
+[2022.11.07-20.25.56:479][634]LogSavePackage: Moving output files for package: /Game/Grid/Test1/M_Grid
+[2022.11.07-20.25.56:479][634]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/M_Grid53CC3A39482221A07AC6F8B477A7C25B.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test1/M_Grid.uasset'
+[2022.11.07-20.25.56:480][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test1/BP_Grid" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test1/BP_Grid.uasset" SILENT=true
+[2022.11.07-20.25.56:489][634]LogSavePackage: Moving output files for package: /Game/Grid/Test1/BP_Grid
+[2022.11.07-20.25.56:489][634]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/BP_Grid51C856364741730BDE3145B09B40467C.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test1/BP_Grid.uasset'
+[2022.11.07-20.25.56:531][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.11.07-20.25.56:550][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.11.07-20.25.56:566][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.11.07-20.25.56:581][634]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-20.25.56:581][634]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test1/BP_Grid.BP_Grid
+[2022.11.07-20.25.56:582][634]LogContentValidation: Display: Validating Material /Game/Grid/Test1/M_Grid.M_Grid
+[2022.11.07-20.25.58:434][816]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.07-20.25.58:488][816]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.07-20.25.58:497][817]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.11.07-20.26.01:175][132]LogContentBrowser: Attempting asset rename: NewFolder -> Test2
+[2022.11.07-20.26.01:176][132]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.07-20.26.06:348][727]LogMetaData: Removing '/Game/Grid/bp_PlacementObject.bp_PlacementObject:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/bp_PlacementObject.PackageMetaData'
+[2022.11.07-20.26.06:348][727]LogMetaData: Removing '/Game/Grid/bp_PlacementObject.SKEL_bp_PlacementObject_C:UserConstructionScript' ref from Metadata '/Game/bp_PlacementObject.PackageMetaData'
+[2022.11.07-20.26.06:348][727]LogMetaData: Removing '/Game/Grid/bp_PlacementObject.SKEL_bp_PlacementObject_C' ref from Metadata '/Game/bp_PlacementObject.PackageMetaData'
+[2022.11.07-20.26.06:348][727]LogMetaData: Removing '/Game/Grid/bp_PlacementObject.bp_PlacementObject_C' ref from Metadata '/Game/bp_PlacementObject.PackageMetaData'
+[2022.11.07-20.26.06:348][727]LogMetaData: Removing '/Game/Grid/bp_PlacementObject.bp_PlacementObject:EventGraph.K2Node_Event_0' ref from Metadata '/Game/bp_PlacementObject.PackageMetaData'
+[2022.11.07-20.26.06:348][727]LogMetaData: Removing '/Game/Grid/bp_PlacementObject.bp_PlacementObject:EventGraph.K2Node_Event_1' ref from Metadata '/Game/bp_PlacementObject.PackageMetaData'
+[2022.11.07-20.26.06:348][727]LogMetaData: Removing '/Game/Grid/bp_PlacementObject.bp_PlacementObject:EventGraph.K2Node_Event_2' ref from Metadata '/Game/bp_PlacementObject.PackageMetaData'
+[2022.11.07-20.26.06:349][727]LogMetaData: Removing '/Game/Grid/bp_GridActor.bp_GridActor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/bp_GridActor.PackageMetaData'
+[2022.11.07-20.26.06:349][727]LogMetaData: Removing '/Game/Grid/bp_GridActor.SKEL_bp_GridActor_C:UserConstructionScript' ref from Metadata '/Game/bp_GridActor.PackageMetaData'
+[2022.11.07-20.26.06:349][727]LogMetaData: Removing '/Game/Grid/bp_GridActor.SKEL_bp_GridActor_C' ref from Metadata '/Game/bp_GridActor.PackageMetaData'
+[2022.11.07-20.26.06:349][727]LogMetaData: Removing '/Game/Grid/bp_GridActor.bp_GridActor_C' ref from Metadata '/Game/bp_GridActor.PackageMetaData'
+[2022.11.07-20.26.06:349][727]LogMetaData: Removing '/Game/Grid/bp_GridActor.bp_GridActor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/bp_GridActor.PackageMetaData'
+[2022.11.07-20.26.06:349][727]LogMetaData: Removing '/Game/Grid/bp_GridActor.bp_GridActor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/bp_GridActor.PackageMetaData'
+[2022.11.07-20.26.06:349][727]LogMetaData: Removing '/Game/Grid/bp_GridActor.bp_GridActor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/bp_GridActor.PackageMetaData'
+[2022.11.07-20.26.06:396][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/bp_PlacementObject" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/bp_PlacementObject.uasset" SILENT=true
+[2022.11.07-20.26.06:398][727]LogSavePackage: Moving output files for package: /Game/Grid/bp_PlacementObject
+[2022.11.07-20.26.06:398][727]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_PlacementObject43D6BC0B4EA72C4AE000ECB3E8349DF6.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/bp_PlacementObject.uasset'
+[2022.11.07-20.26.06:399][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/bp_GridActor" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/bp_GridActor.uasset" SILENT=true
+[2022.11.07-20.26.06:401][727]LogSavePackage: Moving output files for package: /Game/Grid/bp_GridActor
+[2022.11.07-20.26.06:401][727]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActor912D415340B105F50B4738A5DF1992E7.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/bp_GridActor.uasset'
+[2022.11.07-20.26.06:440][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.11.07-20.26.06:456][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.11.07-20.26.06:474][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.07-20.26.06:487][727]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-20.26.06:487][727]LogContentValidation: Display: Validating Blueprint /Game/Grid/bp_PlacementObject.bp_PlacementObject
+[2022.11.07-20.26.06:487][727]LogContentValidation: Display: Validating Blueprint /Game/Grid/bp_GridActor.bp_GridActor
+[2022.11.07-20.26.09:527][ 57]LogMetaData: Removing '/Game/Grid/Test2/bp_GridActor.bp_GridActor_C' ref from Metadata '/Game/Grid/bp_GridActor.PackageMetaData'
+[2022.11.07-20.26.09:527][ 57]LogMetaData: Removing '/Game/Grid/Test2/bp_GridActor.SKEL_bp_GridActor_C' ref from Metadata '/Game/Grid/bp_GridActor.PackageMetaData'
+[2022.11.07-20.26.09:527][ 57]LogMetaData: Removing '/Game/Grid/Test2/bp_GridActor.SKEL_bp_GridActor_C:UserConstructionScript' ref from Metadata '/Game/Grid/bp_GridActor.PackageMetaData'
+[2022.11.07-20.26.09:527][ 57]LogMetaData: Removing '/Game/Grid/Test2/bp_GridActor.bp_GridActor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Grid/bp_GridActor.PackageMetaData'
+[2022.11.07-20.26.09:527][ 57]LogMetaData: Removing '/Game/Grid/Test2/bp_GridActor.bp_GridActor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Grid/bp_GridActor.PackageMetaData'
+[2022.11.07-20.26.09:527][ 57]LogMetaData: Removing '/Game/Grid/Test2/bp_GridActor.bp_GridActor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Grid/bp_GridActor.PackageMetaData'
+[2022.11.07-20.26.09:527][ 57]LogMetaData: Removing '/Game/Grid/Test2/bp_GridActor.bp_GridActor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Grid/bp_GridActor.PackageMetaData'
+[2022.11.07-20.26.09:527][ 57]LogMetaData: Removing '/Game/Grid/Test2/bp_PlacementObject.bp_PlacementObject_C' ref from Metadata '/Game/Grid/bp_PlacementObject.PackageMetaData'
+[2022.11.07-20.26.09:527][ 57]LogMetaData: Removing '/Game/Grid/Test2/bp_PlacementObject.SKEL_bp_PlacementObject_C' ref from Metadata '/Game/Grid/bp_PlacementObject.PackageMetaData'
+[2022.11.07-20.26.09:527][ 57]LogMetaData: Removing '/Game/Grid/Test2/bp_PlacementObject.SKEL_bp_PlacementObject_C:UserConstructionScript' ref from Metadata '/Game/Grid/bp_PlacementObject.PackageMetaData'
+[2022.11.07-20.26.09:527][ 57]LogMetaData: Removing '/Game/Grid/Test2/bp_PlacementObject.bp_PlacementObject:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Grid/bp_PlacementObject.PackageMetaData'
+[2022.11.07-20.26.09:527][ 57]LogMetaData: Removing '/Game/Grid/Test2/bp_PlacementObject.bp_PlacementObject:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Grid/bp_PlacementObject.PackageMetaData'
+[2022.11.07-20.26.09:527][ 57]LogMetaData: Removing '/Game/Grid/Test2/bp_PlacementObject.bp_PlacementObject:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Grid/bp_PlacementObject.PackageMetaData'
+[2022.11.07-20.26.09:527][ 57]LogMetaData: Removing '/Game/Grid/Test2/bp_PlacementObject.bp_PlacementObject:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Grid/bp_PlacementObject.PackageMetaData'
+[2022.11.07-20.26.09:562][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test2/bp_GridActor" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset" SILENT=true
+[2022.11.07-20.26.09:564][ 57]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_GridActor
+[2022.11.07-20.26.09:564][ 57]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActor0FCC943B4ECAE200FB232DA597E3D5BD.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset'
+[2022.11.07-20.26.09:566][ 57]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_PlacementObject
+[2022.11.07-20.26.09:566][ 57]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_PlacementObject2A7204AE41CEA29629EF17B4B5A8F9A1.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_PlacementObject.uasset'
+[2022.11.07-20.26.09:605][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.11.07-20.26.09:622][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.11.07-20.26.09:639][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.07-20.26.09:653][ 57]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-20.26.09:653][ 57]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_PlacementObject.bp_PlacementObject
+[2022.11.07-20.26.09:653][ 57]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor
+[2022.11.07-20.26.11:830][300]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Grid/Test2/bp_PlacementObject.bp_PlacementObject
+[2022.11.07-20.26.11:831][300]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.07-20.26.12:251][300]LogViewport: Scene viewport resized to 738x402, mode Windowed.
+[2022.11.07-20.26.13:771][432]LogViewport: Scene viewport resized to 736x420, mode Windowed.
+[2022.11.07-20.26.13:855][434]LogViewport: Scene viewport resized to 485x240, mode Windowed.
+[2022.11.07-20.26.13:892][435]LogViewport: Scene viewport resized to 467x226, mode Windowed.
+[2022.11.07-20.26.13:997][445]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.11.07-20.26.14:194][465]LogSlate: Window 'bp_PlacementObject' being destroyed
+[2022.11.07-20.26.18:798][976]BlueprintLog: New page: Compile bp_PlacementObject
+[2022.11.07-20.26.18:833][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.11.07-20.26.20:082][119]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor
+[2022.11.07-20.26.20:083][119]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.07-20.26.20:384][119]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.11.07-20.26.21:567][240]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.26.21:608][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.11.07-20.26.21:961][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test2/bp_GridActor" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset" SILENT=true
+[2022.11.07-20.26.21:963][275]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_GridActor
+[2022.11.07-20.26.21:964][275]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActor2D6159924EEC83BEB0DF2D96950B70D4.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset'
+[2022.11.07-20.26.21:973][275]AssetCheck: New page: Asset Save: bp_GridActor
+[2022.11.07-20.26.21:973][275]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor
+[2022.11.07-20.26.59:471][358]LogViewport: Scene viewport resized to 1079x585, mode Windowed.
+[2022.11.07-20.27.22:989][620]BlueprintLog: New page: Compile bp_PlacementObject
+[2022.11.07-20.27.23:032][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.11.07-20.27.23:854][702]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_PlacementObject
+[2022.11.07-20.27.23:855][702]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_PlacementObject03C230794836373F1357F19DB4D4D5DF.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_PlacementObject.uasset'
+[2022.11.07-20.27.23:865][702]AssetCheck: New page: Asset Save: bp_PlacementObject
+[2022.11.07-20.27.23:865][702]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_PlacementObject.bp_PlacementObject
+[2022.11.07-20.27.30:498][486]BlueprintLog: New page: Compile bp_PlacementObject
+[2022.11.07-20.27.30:538][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.07-20.27.31:354][568]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_PlacementObject
+[2022.11.07-20.27.31:355][568]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_PlacementObject96F465AC4350D9FB16868A9E01AAA8E5.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_PlacementObject.uasset'
+[2022.11.07-20.27.31:365][568]AssetCheck: New page: Asset Save: bp_PlacementObject
+[2022.11.07-20.27.31:365][568]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_PlacementObject.bp_PlacementObject
+[2022.11.07-20.27.34:050][880]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-20.27.34:050][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-20.27.42:321][848]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2022.11.07-20.28.46:775][528]LogEditorTransaction: Undo Attach Component
+[2022.11.07-20.28.59:683][924]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/BasicShapes/Plane.Plane
+[2022.11.07-20.28.59:700][924]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.07-20.28.59:976][924]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2022.11.07-20.29.48:653][517]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.29.48:721][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.11.07-20.29.48:780][519]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.29.48:826][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.11.07-20.29.49:401][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test2/bp_GridActor" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset" SILENT=true
+[2022.11.07-20.29.49:405][563]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_GridActor
+[2022.11.07-20.29.49:406][563]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActorD88AB9704DF1AF7FD1343A8946C84FD3.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset'
+[2022.11.07-20.29.49:417][563]AssetCheck: New page: Asset Save: bp_GridActor
+[2022.11.07-20.29.49:417][563]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor
+[2022.11.07-20.30.25:825][830]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.30.25:869][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.07-20.30.26:416][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test2/bp_GridActor" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset" SILENT=true
+[2022.11.07-20.30.26:419][883]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_GridActor
+[2022.11.07-20.30.26:420][883]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActor94E6C2964359888B92009D84D74E27C9.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset'
+[2022.11.07-20.30.26:431][883]AssetCheck: New page: Asset Save: bp_GridActor
+[2022.11.07-20.30.26:431][883]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor
+[2022.11.07-20.30.40:359][537]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.30.40:403][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.11.07-20.30.40:899][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test2/bp_GridActor" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset" SILENT=true
+[2022.11.07-20.30.40:901][584]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_GridActor
+[2022.11.07-20.30.40:902][584]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActor552BC00240ADF35C02E4F7A48071EFA9.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset'
+[2022.11.07-20.30.40:913][584]AssetCheck: New page: Asset Save: bp_GridActor
+[2022.11.07-20.30.40:913][584]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor
+[2022.11.07-20.30.48:727][500]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.30.48:770][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.11.07-20.30.49:181][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test2/bp_GridActor" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset" SILENT=true
+[2022.11.07-20.30.49:184][538]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_GridActor
+[2022.11.07-20.30.49:185][538]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActor0E1C14144792F17523EC739EC81D1E96.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset'
+[2022.11.07-20.30.49:195][538]AssetCheck: New page: Asset Save: bp_GridActor
+[2022.11.07-20.30.49:195][538]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor
+[2022.11.07-20.30.53:858][ 79]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.30.53:902][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.11.07-20.30.54:380][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test2/bp_GridActor" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset" SILENT=true
+[2022.11.07-20.30.54:383][122]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_GridActor
+[2022.11.07-20.30.54:384][122]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActorCFA42F87463601AC64EB5CA82D31E6C7.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset'
+[2022.11.07-20.30.54:394][122]AssetCheck: New page: Asset Save: bp_GridActor
+[2022.11.07-20.30.54:394][122]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor
+[2022.11.07-20.30.56:249][337]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-20.30.56:249][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-20.31.52:475][ 25]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.31.52:518][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.11.07-20.31.53:149][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test2/bp_GridActor" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset" SILENT=true
+[2022.11.07-20.31.53:152][ 85]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_GridActor
+[2022.11.07-20.31.53:152][ 85]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActorBD6533464FE482714D27828D94348F51.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset'
+[2022.11.07-20.31.53:164][ 85]AssetCheck: New page: Asset Save: bp_GridActor
+[2022.11.07-20.31.53:164][ 85]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor
+[2022.11.07-20.35.18:298][176]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.35.18:354][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.11.07-20.35.18:552][194]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.35.18:597][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.11.07-20.35.19:266][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test2/bp_GridActor" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset" SILENT=true
+[2022.11.07-20.35.19:272][261]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_GridActor
+[2022.11.07-20.35.19:272][261]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActor3D112799486E1783CF631DAD3DD64E0C.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset'
+[2022.11.07-20.35.19:285][261]AssetCheck: New page: Asset Save: bp_GridActor
+[2022.11.07-20.35.19:285][261]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor
+[2022.11.07-20.36.02:907][846]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.36.02:959][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.11.07-20.36.03:641][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test2/bp_GridActor" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset" SILENT=true
+[2022.11.07-20.36.03:647][905]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_GridActor
+[2022.11.07-20.36.03:648][905]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActorA0A608EF4E10A2D0345D3B9E09A2237E.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset'
+[2022.11.07-20.36.03:660][905]AssetCheck: New page: Asset Save: bp_GridActor
+[2022.11.07-20.36.03:660][905]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor
+[2022.11.07-20.36.06:562][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test2/bp_GridActor" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset" SILENT=true
+[2022.11.07-20.36.06:567][229]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_GridActor
+[2022.11.07-20.36.06:568][229]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActorCA5E32FD40481B87CAE2E685E1C0B605.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset'
+[2022.11.07-20.36.06:578][229]AssetCheck: New page: Asset Save: bp_GridActor
+[2022.11.07-20.36.06:578][229]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor
+[2022.11.07-20.36.06:898][266]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.36.06:947][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.11.07-20.36.37:284][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test2/bp_GridActor" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset" SILENT=true
+[2022.11.07-20.36.37:290][709]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_GridActor
+[2022.11.07-20.36.37:291][709]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActor52D071DD43F4980FB3181EB6300155DD.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset'
+[2022.11.07-20.36.37:303][709]AssetCheck: New page: Asset Save: bp_GridActor
+[2022.11.07-20.36.37:303][709]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor
+[2022.11.07-20.36.37:680][754]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.36.37:727][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.07-20.36.44:886][561]LogMaterial: Display: Material /Engine/EditorMaterials/WidgetVertexColorMaterial.WidgetVertexColorMaterial needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2022.11.07-20.36.44:889][561]LogMaterial: Display: Missing cached shadermap for WidgetVertexColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 97B52DFE0B892166CE8D45B6EF9B6EC58FACD463), compiling. 
+[2022.11.07-20.36.45:686][610]LogShaderCompilers: Display: ================================================
+[2022.11.07-20.36.45:686][610]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.07-20.36.45:686][610]LogShaderCompilers: Display: Total job queries 370, among them cache hits 0 (0.00%)
+[2022.11.07-20.36.45:686][610]LogShaderCompilers: Display: Tracking 345 distinct input hashes that result in 147 distinct outputs (42.61%)
+[2022.11.07-20.36.45:686][610]LogShaderCompilers: Display: RAM used: 0.37 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2022.11.07-20.36.45:686][610]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.07-20.36.45:686][610]LogShaderCompilers: Display: Shaders Compiled: 370
+[2022.11.07-20.36.45:686][610]LogShaderCompilers: Display: Jobs assigned 370, completed 345 (93.24%)
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display: Average time worker was idle: 199.86 s
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display: Time job spent in pending queue: average 15.02 s, longest 41.85 s
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display: Job execution time: average 8.54 s, max 12.14 s
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display: Job life time (pending + execution): average 24.66 s, max 42.77
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 43.74 s
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display: Jobs were issued in 57 batches (only local compilation was used), average 6.49 jobs/batch
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display: Average processing rate: 7.89 jobs/sec
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display: Effective parallelization: 7.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   28 times, average 1.44 sec, max 1.58 sec, min 1.12 sec)
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_Standard> (compiled   24 times, average 1.31 sec, max 3.14 sec, min 1.02 sec)
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   28 times, average 1.27 sec, max 2.63 sec, min 1.04 sec)
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   28 times, average 1.25 sec, max 2.46 sec, min 0.92 sec)
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   28 times, average 1.16 sec, max 1.42 sec, min 0.98 sec)
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.07% of total time (compiled   28 times, average 1.44 sec, max 1.58 sec, min 1.12 sec)
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display:                                             FDebugViewModeVS - 10.68% of total time (compiled   28 times, average 1.27 sec, max 2.63 sec, min 1.04 sec)
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display:                                             FDebugViewModePS - 10.48% of total time (compiled   28 times, average 1.25 sec, max 2.46 sec, min 0.92 sec)
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.78% of total time (compiled   28 times, average 1.16 sec, max 1.42 sec, min 0.98 sec)
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_Standard> - 9.42% of total time (compiled   24 times, average 1.31 sec, max 3.14 sec, min 1.02 sec)
+[2022.11.07-20.36.45:687][610]LogShaderCompilers: Display: ================================================
+[2022.11.07-20.37.03:725][480]LogMaterial: Display: Material /Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial.FloorPlaneMaterial needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2022.11.07-20.37.03:729][480]LogMaterial: Display: Missing cached shadermap for FloorPlaneMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8D6DAA8B76B82AB318D861BFC67DA3BCA0854F62), compiling. 
+[2022.11.07-20.37.08:184][693]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.37.08:307][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.11.07-20.37.08:935][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test2/bp_GridActor" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset" SILENT=true
+[2022.11.07-20.37.08:950][714]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_GridActor
+[2022.11.07-20.37.08:951][714]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActorA138BBFD4BC365A376A5769A18020310.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset'
+[2022.11.07-20.37.08:974][714]AssetCheck: New page: Asset Save: bp_GridActor
+[2022.11.07-20.37.08:974][714]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor
+[2022.11.07-20.37.19:979][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test2/bp_GridActor" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset" SILENT=true
+[2022.11.07-20.37.19:984][534]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_GridActor
+[2022.11.07-20.37.19:985][534]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActor1A62FC964B05F0A33D1C639268CBC628.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset'
+[2022.11.07-20.37.19:996][534]AssetCheck: New page: Asset Save: bp_GridActor
+[2022.11.07-20.37.19:996][534]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor
+[2022.11.07-20.39.29:655][ 47]LogEditorTransaction: Undo Break Node Links
+[2022.11.07-20.40.53:681][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.11.07-20.40.53:683][781]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.034
+[2022.11.07-20.40.53:684][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial] ([1] browsable assets)...
+[2022.11.07-20.40.53:732][781]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial.FloorPlaneMaterial]
+[2022.11.07-20.40.53:732][781]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial]
+[2022.11.07-20.40.53:734][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial_Auto4
+[2022.11.07-20.40.53:735][781]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/FloorPlaneMaterial_Auto442E9A8B84E532C7C3B5C029635A61AB4.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/Autosaves/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial_Auto4.uasset'
+[2022.11.07-20.40.53:735][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/EditorMaterials/WidgetVertexColorMaterial] ([1] browsable assets)...
+[2022.11.07-20.40.53:752][781]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/EditorMaterials/WidgetVertexColorMaterial.WidgetVertexColorMaterial]
+[2022.11.07-20.40.53:752][781]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorMaterials/WidgetVertexColorMaterial]
+[2022.11.07-20.40.53:754][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/EditorMaterials/WidgetVertexColorMaterial_Auto4
+[2022.11.07-20.40.53:754][781]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/WidgetVertexColorMaterial_Auto4097233B748EF44D6A0ED408E60DFF25C.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/Autosaves/Engine/EditorMaterials/WidgetVertexColorMaterial_Auto4.uasset'
+[2022.11.07-20.40.53:755][781]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Grid/Test2/bp_GridActor] ([2] browsable assets)...
+[2022.11.07-20.40.53:782][781]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor]
+[2022.11.07-20.40.53:782][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/Grid/Test2/bp_GridActor]
+[2022.11.07-20.40.53:789][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Grid/Test2/bp_GridActor_Auto4
+[2022.11.07-20.40.53:790][781]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActor_Auto492010D774EEB4A35264E19942AFC3FA0.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/Autosaves/Game/Grid/Test2/bp_GridActor_Auto4.uasset'
+[2022.11.07-20.40.53:790][781]LogFileHelpers: Auto-saving content packages took 0.107
+[2022.11.07-20.40.57:285][792]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.40.57:289][792]LogBlueprint: Error: [AssetLog] C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Content\Grid\Test2\bp_GridActor.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Float (double-precision) is not compatible with Vector.' at  vector + vector
+[2022.11.07-20.40.57:338][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.11.07-20.40.57:454][800]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.40.57:457][800]LogBlueprint: Error: [AssetLog] C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Content\Grid\Test2\bp_GridActor.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Float (double-precision) is not compatible with Vector.' at  vector + vector
+[2022.11.07-20.40.57:507][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.11.07-20.41.02:381][344]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.41.02:435][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.11.07-20.41.03:110][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test2/bp_GridActor" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset" SILENT=true
+[2022.11.07-20.41.03:118][412]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_GridActor
+[2022.11.07-20.41.03:118][412]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActor26413AAD49A178F169B4308D116CDC5C.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset'
+[2022.11.07-20.41.03:131][412]AssetCheck: New page: Asset Save: bp_GridActor
+[2022.11.07-20.41.03:131][412]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor
+[2022.11.07-20.41.06:179][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test2/bp_GridActor" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset" SILENT=true
+[2022.11.07-20.41.06:186][754]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_GridActor
+[2022.11.07-20.41.06:186][754]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActorFFACAC7F4CFCEB599FA02788FF3D665F.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset'
+[2022.11.07-20.41.06:199][754]AssetCheck: New page: Asset Save: bp_GridActor
+[2022.11.07-20.41.06:199][754]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor
+[2022.11.07-20.41.06:581][799]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.41.06:630][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.11.07-20.41.31:965][726]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.41.32:016][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.11.07-20.41.32:481][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test2/bp_GridActor" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset" SILENT=true
+[2022.11.07-20.41.32:489][765]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_GridActor
+[2022.11.07-20.41.32:490][765]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_GridActor460232854C662744597A4AB79380CABF.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_GridActor.uasset'
+[2022.11.07-20.41.32:501][765]AssetCheck: New page: Asset Save: bp_GridActor
+[2022.11.07-20.41.32:501][765]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor
+[2022.11.07-20.41.33:366][857]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.11.07-20.42.23:607][262]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Grid/Test2/bp_GridActor.bp_GridActor_C
+[2022.11.07-20.42.23:607][262]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Grid/Test2/bp_GridActor.bp_GridActor_C
+[2022.11.07-20.42.23:610][262]LogActorFactory: Actor Factory spawned Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor as actor: bp_GridActor_C /Game/NewMap.NewMap:PersistentLevel.bp_GridActor_C_0
+[2022.11.07-20.42.23:613][262]LogActorFactory: Actor Factory spawned Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor as actor: bp_GridActor_C /Game/NewMap.NewMap:PersistentLevel.bp_GridActor_C_0
+[2022.11.07-20.42.24:603][371]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Grid/Test2/bp_GridActor.bp_GridActor_C
+[2022.11.07-20.42.24:603][371]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Grid/Test2/bp_GridActor.bp_GridActor_C
+[2022.11.07-20.42.24:610][371]LogActorFactory: Actor Factory spawned Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor as actor: bp_GridActor_C /Game/NewMap.NewMap:PersistentLevel.bp_GridActor_C_UAID_5081402FF2AB7A4701_1946271609
+[2022.11.07-20.42.24:613][371]LogActorFactory: Actor Factory spawned Blueprint /Game/Grid/Test2/bp_GridActor.bp_GridActor as actor: bp_GridActor_C /Game/NewMap.NewMap:PersistentLevel.bp_GridActor_C_UAID_5081402FF2AB7A4701_1946271609
+[2022.11.07-20.42.59:961][483]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.07-20.42.59:998][483]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.07-20.43.00:004][483]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.07-20.43.00:014][484]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.07-20.43.13:994][145]LogContentBrowser: Attempting asset rename: NewBlueprint -> bp_buildingBase
+[2022.11.07-20.43.13:999][145]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.07-20.43.20:850][587]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/WA/MKY7NTTT5ZTGL7NZL1ECYB
+[2022.11.07-20.43.20:850][587]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/MKY7NTTT5ZTGL7NZL1ECYB6CCB30274881C79512D4969C109F60E7.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/__ExternalActors__/NewMap/A/WA/MKY7NTTT5ZTGL7NZL1ECYB.uasset'
+[2022.11.07-20.43.20:862][587]AssetCheck: New page: Asset Save: bp_GridActor_C_UAID_5081402FF2AB7A4701_1946271609
+[2022.11.07-20.43.20:862][587]LogContentValidation: Display: Validating bp_GridActor_C /Game/NewMap.NewMap:PersistentLevel.bp_GridActor_C_UAID_5081402FF2AB7A4701_1946271609
+[2022.11.07-20.43.24:880][ 38]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Grid/Test2/bp_buildingBase.bp_buildingBase
+[2022.11.07-20.43.24:880][ 38]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.07-20.43.25:224][ 38]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.11.07-20.43.26:393][167]BlueprintLog: New page: Compile bp_buildingBase
+[2022.11.07-20.43.26:444][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.11.07-20.43.27:047][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test2/bp_buildingBase" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_buildingBase.uasset" SILENT=true
+[2022.11.07-20.43.27:049][231]LogSavePackage: Moving output files for package: /Game/Grid/Test2/bp_buildingBase
+[2022.11.07-20.43.27:049][231]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_buildingBaseB3F50861495C159029FA40A9A69E755E.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test2/bp_buildingBase.uasset'
+[2022.11.07-20.43.27:060][231]AssetCheck: New page: Asset Save: bp_buildingBase
+[2022.11.07-20.43.27:060][231]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test2/bp_buildingBase.bp_buildingBase
+[2022.11.07-20.44.10:348][449]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'PropertyEditor.AddColumnMessage.ColorAndOpacity'.'
+[2022.11.07-20.45.51:383][289]BlueprintLog: New page: Compile bp_GridActor
+[2022.11.07-20.45.51:444][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.11.07-20.45.54:688][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.07-20.45.55:810][649]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.07-20.45.55:882][649]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-20.45.55:882][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-20.45.55:925][649]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Grid/Test2/bp_buildingBase.bp_buildingBase
+	Asset Type: Blueprint
+[2022.11.07-20.45.56:192][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.11.07-20.45.56:224][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.11.07-20.45.56:252][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.07-20.45.58:918][892]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.07-20.45.58:941][892]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.07-20.45.58:979][893]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.11.07-20.46.01:691][219]LogContentBrowser: Attempting asset rename: NewFolder -> Test3
+[2022.11.07-20.46.01:691][219]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.07-20.46.21:125][256]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.07-20.46.21:133][256]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.07-20.46.21:138][256]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.07-20.46.21:154][258]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.07-20.46.38:392][303]LogContentBrowser: Attempting asset rename: NewBlueprint -> GM_basebuilding
+[2022.11.07-20.46.38:396][303]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.07-20.46.40:053][498]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Grid/Test3/GM_basebuilding.GM_basebuilding
+[2022.11.07-20.46.40:054][498]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.07-20.46.40:347][498]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.11.07-20.46.43:437][828]BlueprintLog: New page: Compile GM_basebuilding
+[2022.11.07-20.46.43:491][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.11.07-20.46.43:865][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grid/Test3/GM_basebuilding" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test3/GM_basebuilding.uasset" SILENT=true
+[2022.11.07-20.46.43:867][864]LogSavePackage: Moving output files for package: /Game/Grid/Test3/GM_basebuilding
+[2022.11.07-20.46.43:867][864]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/GM_basebuilding145C679241355B96D05E09A550AB6E5B.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test3/GM_basebuilding.uasset'
+[2022.11.07-20.46.43:878][864]AssetCheck: New page: Asset Save: GM_basebuilding
+[2022.11.07-20.46.43:878][864]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test3/GM_basebuilding.GM_basebuilding
+[2022.11.07-20.46.48:046][208]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.07-20.46.48:119][208]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.11.07-20.46.56:324][ 70]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.07-20.46.59:206][397]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.07-20.46.59:212][397]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.07-20.47.07:048][276]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.07-20.47.07:117][276]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.11.07-20.47.22:769][976]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.07-20.47.24:269][137]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/WA/MKY7NTTT5ZTGL7NZL1ECYB
+[2022.11.07-20.47.24:269][137]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/MKY7NTTT5ZTGL7NZL1ECYB47D31DCF4E3948E8276F948077ABC34D.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/__ExternalActors__/NewMap/A/WA/MKY7NTTT5ZTGL7NZL1ECYB.uasset'
+[2022.11.07-20.47.24:279][137]AssetCheck: New page: Asset Save: bp_GridActor_C_UAID_5081402FF2AB7A4701_1946271609
+[2022.11.07-20.47.24:279][137]LogContentValidation: Display: Validating bp_GridActor_C /Game/NewMap.NewMap:PersistentLevel.bp_GridActor_C_UAID_5081402FF2AB7A4701_1946271609
+[2022.11.07-20.47.37:603][507]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.07-20.47.37:612][507]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.07-20.47.37:616][507]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.07-20.47.37:625][508]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.07-20.47.44:559][322]LogD3D12RHI: Error: pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h:1387 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: 887A002B
+
+[2022.11.07-20.47.44:559][322]LogRHI: Error: [Aftermath] Status: DmaFault
+[2022.11.07-20.47.44:559][322]LogRHI: Error: [Aftermath] Failed to get Aftermath stack data
+[2022.11.07-20.47.44:559][322]LogD3D12RHI: Error: [GPUBreadCrumb] Last tracked GPU operations:
+[2022.11.07-20.47.44:559][322]LogD3D12RHI: Error: [GPUBreadCrumb]	3D Queue 0 - Begin: Frame 267321 - Scene - SubmitCommands
+[2022.11.07-20.47.44:564][323]LogD3D12RHI: Error: pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h:1387 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: 887A002B
+
+[2022.11.07-20.47.44:570][323]LogD3D12RHI: Error: [GPUBreadCrumb]	Compute Queue 0 - No Data
+[2022.11.07-20.47.44:581][324]LogD3D12RHI: Error: [GPUBreadCrumb]	Copy Queue 0 - No Data
+[2022.11.07-20.47.44:592][324]LogD3D12RHI: Error: DRED: No breadcrumb head found.
+[2022.11.07-20.47.44:592][324]LogD3D12RHI: Error: DRED: No PageFault data.
+[2022.11.07-20.47.44:592][324]LogD3D12RHI: Error: Memory Info from frame ID 270878:
+[2022.11.07-20.47.44:592][324]LogD3D12RHI: Error: 	Budget:	9310.00 MB
+[2022.11.07-20.47.44:592][324]LogD3D12RHI: Error: 	Used:	2328.50 MB
+[2022.11.07-20.48.40:002][324]LogWindows: Error: Error reentered: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12Util.cpp] [Line: 859] 
+pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h:1387 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: 887A002B
+
+
+
+
