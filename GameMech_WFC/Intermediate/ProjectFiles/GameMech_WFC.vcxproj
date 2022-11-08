@@ -219,6 +219,7 @@
     <NMakeCleanCommandLine>C:\Epic\UE5\UE_5.0\Engine\Build\BatchFiles\Clean.bat GameMech_WFC HoloLens DebugGame -Project="$(SolutionDir)GameMech_WFC.uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
     <NMakeOutput>..\..\Binaries\HoloLens\GameMech_WFC-HoloLens-DebugGame.exe</NMakeOutput>
     <AdditionalOptions>/std:c++17</AdditionalOptions>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
 		<AdditionalOptions>/ZW /ZW:nostdlib</AdditionalOptions>
 		<NMakePreprocessorDefinitions>$(NMakePreprocessorDefinitions);PLATFORM_HOLOLENS=1;HOLOLENS=1;</NMakePreprocessorDefinitions>
 		<NMakeAssemblySearchPath>$(NMakeAssemblySearchPath);C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.32.31326\lib\x86\Store\references</NMakeAssemblySearchPath>
@@ -287,6 +288,7 @@
     <NMakeCleanCommandLine>C:\Epic\UE5\UE_5.0\Engine\Build\BatchFiles\Clean.bat GameMech_WFC HoloLens Development -Project="$(SolutionDir)GameMech_WFC.uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
     <NMakeOutput>..\..\Binaries\HoloLens\GameMech_WFC.exe</NMakeOutput>
     <AdditionalOptions>/std:c++17</AdditionalOptions>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
 		<AdditionalOptions>/ZW /ZW:nostdlib</AdditionalOptions>
 		<NMakePreprocessorDefinitions>$(NMakePreprocessorDefinitions);PLATFORM_HOLOLENS=1;HOLOLENS=1;</NMakePreprocessorDefinitions>
 		<NMakeAssemblySearchPath>$(NMakeAssemblySearchPath);C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.32.31326\lib\x86\Store\references</NMakeAssemblySearchPath>
@@ -337,6 +339,7 @@
     <NMakeCleanCommandLine>C:\Epic\UE5\UE_5.0\Engine\Build\BatchFiles\Clean.bat GameMech_WFC HoloLens Shipping -Project="$(SolutionDir)GameMech_WFC.uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
     <NMakeOutput>..\..\Binaries\HoloLens\GameMech_WFC-HoloLens-Shipping.exe</NMakeOutput>
     <AdditionalOptions>/std:c++17</AdditionalOptions>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
 		<AdditionalOptions>/ZW /ZW:nostdlib</AdditionalOptions>
 		<NMakePreprocessorDefinitions>$(NMakePreprocessorDefinitions);PLATFORM_HOLOLENS=1;HOLOLENS=1;</NMakePreprocessorDefinitions>
 		<NMakeAssemblySearchPath>$(NMakeAssemblySearchPath);C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.32.31326\lib\x86\Store\references</NMakeAssemblySearchPath>
@@ -366,6 +369,8 @@
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
+    <None Include="..\..\Config\DefaultInput.ini"/>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini"/>
     <None Include="..\..\Source\GameMech_WFC\GameMech_WFC.Build.cs"/>
     <ClCompile Include="..\..\Source\GameMech_WFC\GameMech_WFC.cpp">
       <AdditionalIncludeDirectories>$(NMakeIncludeSearchPath);C:\Epic\UE5\UE_5.0\Engine\Source\ThirdParty\mimalloc\include;C:\Epic\UE5\UE_5.0\Engine\Source\ThirdParty\LibTiff\Source\Win64;C:\Epic\UE5\UE_5.0\Engine\Source\ThirdParty\LibTiff\Source;C:\Epic\UE5\UE_5.0\Engine\Source\ThirdParty\PhysX3\PxShared\include;C:\Epic\UE5\UE_5.0\Engine\Source\ThirdParty\PhysX3\PxShared\include\cudamanager;C:\Epic\UE5\UE_5.0\Engine\Source\ThirdParty\PhysX3\PxShared\include\filebuf;C:\Epic\UE5\UE_5.0\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation;C:\Epic\UE5\UE_5.0\Engine\Source\ThirdParty\PhysX3\PxShared\include\pvd;C:\Epic\UE5\UE_5.0\Engine\Source\ThirdParty\PhysX3\PxShared\include\task;C:\Epic\UE5\UE_5.0\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include;C:\Epic\UE5\UE_5.0\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking;C:\Epic\UE5\UE_5.0\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common;C:\Epic\UE5\UE_5.0\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions;C:\Epic\UE5\UE_5.0\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry;</AdditionalIncludeDirectories>
