@@ -4168,3 +4168,147 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.13-20.21.04:861][563]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/TestLevel56FA72394D460540EB01D19FAC51CEB1.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/TestLevel.umap'
 [2022.11.13-20.21.04:880][563]AssetCheck: New page: Asset Save: TestLevel
 [2022.11.13-20.21.04:880][563]LogContentValidation: Display: Validating World /Game/TestLevel.TestLevel
+[2022.11.13-20.25.44:553][607]LogDerivedDataCache: C:/Users/n012782k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.011 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.13-20.31.04:930][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.13-20.31.04:935][561]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestLevel' took 0.039
+[2022.11.13-20.31.04:936][561]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Grid/Test3/GameObjects/bp_buildingAsset] ([2] browsable assets)...
+[2022.11.13-20.31.04:982][561]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Grid/Test3/GameObjects/bp_buildingAsset.bp_buildingAsset]
+[2022.11.13-20.31.04:982][561]OBJ SavePackage: Finished generating thumbnails for package [/Game/Grid/Test3/GameObjects/bp_buildingAsset]
+[2022.11.13-20.31.04:985][561]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Grid/Test3/GameObjects/bp_buildingAsset_Auto1
+[2022.11.13-20.31.04:985][561]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_buildingAsset_Auto1EF212F464BD1EA4A9D738D8EC56BD3FC.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/Autosaves/Game/Grid/Test3/GameObjects/bp_buildingAsset_Auto1.uasset'
+[2022.11.13-20.31.04:986][561]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Grid/Test3/bp_characterController] ([2] browsable assets)...
+[2022.11.13-20.31.04:986][561]OBJ SavePackage: Finished generating thumbnails for package [/Game/Grid/Test3/bp_characterController]
+[2022.11.13-20.31.04:997][561]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Grid/Test3/bp_characterController_Auto1
+[2022.11.13-20.31.04:998][561]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_characterController_Auto1CFD97EE0411936B0F1C31481B8B45499.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/Autosaves/Game/Grid/Test3/bp_characterController_Auto1.uasset'
+[2022.11.13-20.31.04:998][561]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/n012782k/CubeGridToolOutput_6FDD5445] ([1] browsable assets)...
+[2022.11.13-20.31.05:020][561]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/n012782k/CubeGridToolOutput_6FDD5445.CubeGridToolOutput_6FDD5445]
+[2022.11.13-20.31.05:020][561]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/n012782k/CubeGridToolOutput_6FDD5445]
+[2022.11.13-20.31.05:023][561]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/n012782k/CubeGridToolOutput_6FDD5445_Auto1
+[2022.11.13-20.31.05:023][561]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/CubeGridToolOutput_6FDD5445_AutoBCF8AA8F403FA9FE0D5107A3938B5608.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/Autosaves/Game/_GENERATED/n012782k/CubeGridToolOutput_6FDD5445_Auto1.uasset'
+[2022.11.13-20.31.05:023][561]LogFileHelpers: Auto-saving content packages took 0.087
+[2022.11.13-20.33.32:466][649]BlueprintLog: New page: Compile bp_characterController
+[2022.11.13-20.33.32:523][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.13-20.33.32:802][671]LogSavePackage: Moving output files for package: /Game/Grid/Test3/bp_characterController
+[2022.11.13-20.33.32:803][671]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_characterControllerFF3120E9482BA28191B7B0AFDEB9C455.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test3/bp_characterController.uasset'
+[2022.11.13-20.33.32:813][671]AssetCheck: New page: Asset Save: bp_characterController
+[2022.11.13-20.33.32:813][671]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test3/bp_characterController.bp_characterController
+[2022.11.13-20.33.36:793][117]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.13-20.33.36:799][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-20.33.36:799][117]PIE: New page: PIE session: TestLevel (13 Nov 2022, 20:33:36)
+[2022.11.13-20.33.36:799][117]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2022.11.13-20.33.36:800][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001222s)
+[2022.11.13-20.33.36:800][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.001281s)
+[2022.11.13-20.33.36:801][117]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.13-20.33.36:801][117]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-20.33.36:801][117]LogAIModule: Creating AISystem for world TestLevel
+[2022.11.13-20.33.36:801][117]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2022.11.13-20.33.36:836][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.13-20.33.36:839][117]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2022.11.13-20.33.36:839][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-20.33.36:839][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-20.33.36:839][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-20.33.36:839][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-20.33.36:839][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-20.33.36:839][117]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.13-20.33.36:839][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-20.33.36:839][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-20.33.36:840][117]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.13-20.33.36:840][117]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.13-20.33.36:840][117]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.13-20.33.36:842][117]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.13-20.33.36:857][117]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.11.13-20.33.36:857][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-20.33.36:857][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-20.33.36:857][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-20.33.36:858][117]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2022.11.13-20.33.36:858][117]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2022.11.13-20.33.36:859][117]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2022.11.13-20.33.36:859][117]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2022.11.13-20.33.36:859][117]LogInit: FAudioDevice initialized.
+[2022.11.13-20.33.36:859][117]LogAudio: Display: Audio Device (ID: 60) registered with world 'TestLevel'.
+[2022.11.13-20.33.36:868][117]LogLoad: Game class is 'GM_basebuilding_C'
+[2022.11.13-20.33.36:868][117]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.11.13-20.33.36
+[2022.11.13-20.33.36:869][117]LogWorld: Bringing up level for play took: 0.000466
+[2022.11.13-20.33.36:870][117]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2022.11.13-20.33.36:886][117]PIE: Server logged in
+[2022.11.13-20.33.36:886][117]PIE: Play in editor total start time 0.087 seconds.
+[2022.11.13-20.34.03:916][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-20.34.03:916][321]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2022.11.13-20.34.03:916][321]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-20.34.03:917][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-20.34.03:924][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-20.34.03:927][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-20.34.03:963][321]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-20.34.03:963][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2022.11.13-20.34.03:966][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2022.11.13-20.34.03:970][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-20.34.03:972][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.13-20.34.03:993][322]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2022.11.13-20.34.32:724][232]LogViewport: Scene viewport resized to 902x585, mode Windowed.
+[2022.11.13-20.34.54:926][766]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.13-20.34.54:940][766]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_6FDD5445...
+[2022.11.13-20.34.54:940][766]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/n012782k/CubeGridToolOutput_6FDD5445.CubeGridToolOutput_6FDD5445
+[2022.11.13-20.34.54:940][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-20.34.54:940][766]PIE: New page: PIE session: TestLevel (13 Nov 2022, 20:34:54)
+[2022.11.13-20.34.54:940][766]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2022.11.13-20.34.54:942][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001409s)
+[2022.11.13-20.34.54:942][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.001474s)
+[2022.11.13-20.34.54:942][766]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.13-20.34.54:942][766]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-20.34.54:942][766]LogAIModule: Creating AISystem for world TestLevel
+[2022.11.13-20.34.54:942][766]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2022.11.13-20.34.54:984][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.11.13-20.34.54:986][766]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2022.11.13-20.34.54:986][766]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-20.34.54:986][766]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-20.34.54:986][766]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-20.34.54:986][766]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-20.34.54:986][766]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-20.34.54:986][766]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.13-20.34.54:986][766]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-20.34.54:986][766]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-20.34.54:986][766]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.13-20.34.54:986][766]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.13-20.34.54:986][766]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.13-20.34.54:988][766]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.13-20.34.55:002][766]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.11.13-20.34.55:003][766]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-20.34.55:003][766]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-20.34.55:003][766]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-20.34.55:003][766]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=61
+[2022.11.13-20.34.55:003][766]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=61
+[2022.11.13-20.34.55:004][766]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=61
+[2022.11.13-20.34.55:004][766]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=61
+[2022.11.13-20.34.55:004][766]LogInit: FAudioDevice initialized.
+[2022.11.13-20.34.55:004][766]LogAudio: Display: Audio Device (ID: 61) registered with world 'TestLevel'.
+[2022.11.13-20.34.55:018][766]LogLoad: Game class is 'GM_basebuilding_C'
+[2022.11.13-20.34.55:019][766]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.11.13-20.34.55
+[2022.11.13-20.34.55:019][766]LogWorld: Bringing up level for play took: 0.000486
+[2022.11.13-20.34.55:020][766]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2022.11.13-20.34.55:040][766]PIE: Server logged in
+[2022.11.13-20.34.55:041][766]PIE: Play in editor total start time 0.11 seconds.
+[2022.11.13-20.35.07:382][208]LogViewport: Scene viewport resized to 1113x585, mode Windowed.
+[2022.11.13-20.35.08:205][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-20.35.08:205][302]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2022.11.13-20.35.08:205][302]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-20.35.08:205][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-20.35.08:224][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-20.35.08:227][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-20.35.08:259][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-20.35.08:259][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2022.11.13-20.35.08:261][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2022.11.13-20.35.08:264][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-20.35.08:265][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.11.13-20.35.08:294][303]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2022.11.13-20.40.10:993][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestLevel" FILE="../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.13-20.40.11:033][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.11.13-20.40.11:039][571]LogSavePackage: Moving output files for package: /Game/TestLevel
+[2022.11.13-20.40.11:040][571]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/TestLevelCE606C4A4A101F8F4E77CEBC70C0BEC1.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/TestLevel.umap'
+[2022.11.13-20.40.11:060][571]AssetCheck: New page: Asset Save: TestLevel
+[2022.11.13-20.40.11:060][571]LogContentValidation: Display: Validating World /Game/TestLevel.TestLevel
+[2022.11.13-20.40.14:572][975]BlueprintLog: New page: Compile bp_buildingAsset
+[2022.11.13-20.40.14:620][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.11.13-20.40.15:106][ 17]LogSavePackage: Moving output files for package: /Game/Grid/Test3/GameObjects/bp_buildingAsset
+[2022.11.13-20.40.15:106][ 17]LogSavePackage: Moving '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Saved/bp_buildingAsset166C30B642E3A745EED8C9A12C2042F2.tmp' to '../../../../../../Users/n012782k/Documents/GitHub/Game_Mechanic/GameMech_WFC/Content/Grid/Test3/GameObjects/bp_buildingAsset.uasset'
+[2022.11.13-20.40.15:115][ 17]AssetCheck: New page: Asset Save: bp_buildingAsset
+[2022.11.13-20.40.15:116][ 17]LogContentValidation: Display: Validating Blueprint /Game/Grid/Test3/GameObjects/bp_buildingAsset.bp_buildingAsset
