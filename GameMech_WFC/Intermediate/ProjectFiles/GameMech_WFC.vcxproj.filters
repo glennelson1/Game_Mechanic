@@ -50,5 +50,23 @@
     <ClInclude Include="..\..\Source\GameMech_WFC\GameMech_WFCGameModeBase.h">
       <Filter>Source\GameMech_WFC</Filter>
     </ClInclude>
+    <Filter Include="Source\GameMech_WFC\Private">
+      <UniqueIdentifier>{DA18A681-6BE2-32CE-A2F2-8D0BB9EFEAAE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GameMech_WFC\Private\WFC.cpp">
+      <Filter>Source\GameMech_WFC\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameMech_WFC\Private\WFC.h">
+      <Filter>Source\GameMech_WFC\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameMech_WFC\Private\WFC_Test.cpp">
+      <Filter>Source\GameMech_WFC\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\GameMech_WFC\Public">
+      <UniqueIdentifier>{6356AB56-1C85-3712-9AD5-BE8CD8CC20DD}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GameMech_WFC\Public\WFC_Test.h">
+      <Filter>Source\GameMech_WFC\Public</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

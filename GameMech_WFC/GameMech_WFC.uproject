@@ -1,13 +1,16 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{CAA9AE63-4B43-8E77-5FD3-0999B026A0BF}",
+	"EngineAssociation": "{4679BEF9-4C55-1DDA-77A1-F9AC5E022A43}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
 		{
 			"Name": "GameMech_WFC",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	],
 	"Plugins": [
