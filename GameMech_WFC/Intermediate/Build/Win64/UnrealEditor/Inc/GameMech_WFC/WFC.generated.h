@@ -14,8 +14,24 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define GAMEMECH_WFC_WFC_generated_h
 
 #define FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_SPARSE_DATA
-#define FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_RPC_WRAPPERS
-#define FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_RPC_WRAPPERS \
+	virtual void CheckNeibourTile_Implementation(); \
+	virtual void SetTile_Implementation(); \
+ \
+	DECLARE_FUNCTION(execRandomNumber); \
+	DECLARE_FUNCTION(execCheckNeibourTile); \
+	DECLARE_FUNCTION(execSetTile);
+
+
+#define FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execRandomNumber); \
+	DECLARE_FUNCTION(execCheckNeibourTile); \
+	DECLARE_FUNCTION(execSetTile);
+
+
+#define FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_EVENT_PARMS
+#define FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_CALLBACK_WRAPPERS
 #define FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUWFC(); \
@@ -58,12 +74,16 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UWFC)
 
 
-#define FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_10_PROLOG
+#define FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_10_PROLOG \
+	FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_EVENT_PARMS
+
+
 #define FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_SPARSE_DATA \
 	FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_RPC_WRAPPERS \
+	FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_CALLBACK_WRAPPERS \
 	FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_INCLASS \
 	FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_STANDARD_CONSTRUCTORS \
 public: \
@@ -75,6 +95,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_SPARSE_DATA \
 	FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_CALLBACK_WRAPPERS \
 	FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_INCLASS_NO_PURE_DECLS \
 	FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_ENHANCED_CONSTRUCTORS \
 private: \

@@ -23,6 +23,9 @@ public:
 	UFUNCTION(BlueprintNativeEvent, Category="WFC_Functions")
 	void CheckNeibourTile();
 	void CheckNeibourTile_Implementation();
+
+	UFUNCTION(BlueprintCallable, Category="RandNum")
+	float RandomNumber();
 	
 protected:
 	// Called when the game starts

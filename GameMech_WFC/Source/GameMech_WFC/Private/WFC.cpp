@@ -22,6 +22,14 @@ void UWFC::CheckNeibourTile_Implementation()
 }
 
 
+float UWFC::RandomNumber()
+{
+	return  FMath::RandRange( 0,  2);
+}
+
+
+
+
 
 
 // Called when the game starts
