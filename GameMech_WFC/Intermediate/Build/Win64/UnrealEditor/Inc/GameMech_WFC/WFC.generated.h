@@ -18,6 +18,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	virtual void CheckNeibourTile_Implementation(); \
 	virtual void SetTile_Implementation(); \
  \
+	DECLARE_FUNCTION(execBuildingToSpawn); \
 	DECLARE_FUNCTION(execRandomNumber); \
 	DECLARE_FUNCTION(execCheckNeibourTile); \
 	DECLARE_FUNCTION(execSetTile);
@@ -25,6 +26,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 #define FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
  \
+	DECLARE_FUNCTION(execBuildingToSpawn); \
 	DECLARE_FUNCTION(execRandomNumber); \
 	DECLARE_FUNCTION(execCheckNeibourTile); \
 	DECLARE_FUNCTION(execSetTile);

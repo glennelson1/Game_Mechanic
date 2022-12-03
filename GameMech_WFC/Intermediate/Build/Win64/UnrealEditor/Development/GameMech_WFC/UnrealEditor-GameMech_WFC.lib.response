@@ -7,10 +7,12 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Intermediate\Build\Win64\GameMech_WFCEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Intermediate\Build\Win64\UnrealEditor\Development\GameMech_WFC\WFC.cpp.obj"
 "C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Intermediate\Build\Win64\UnrealEditor\Development\GameMech_WFC\WFC_Test.cpp.obj"
 "C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Intermediate\Build\Win64\UnrealEditor\Development\GameMech_WFC\GameMech_WFC.cpp.obj"
 "C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Intermediate\Build\Win64\UnrealEditor\Development\GameMech_WFC\GameMech_WFCGameModeBase.cpp.obj"
+"C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Intermediate\Build\Win64\UnrealEditor\Development\GameMech_WFC\BuildingComp.cpp.obj"
+"C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Intermediate\Build\Win64\UnrealEditor\Development\GameMech_WFC\WFC.cpp.obj"
+"C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Intermediate\Build\Win64\UnrealEditor\Development\GameMech_WFC\BuildingComp.gen.cpp.obj"
 "C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Intermediate\Build\Win64\UnrealEditor\Development\GameMech_WFC\GameMech_WFC.init.gen.cpp.obj"
 "C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Intermediate\Build\Win64\UnrealEditor\Development\GameMech_WFC\GameMech_WFCGameModeBase.gen.cpp.obj"
 "C:\Users\n012782k\Documents\GitHub\Game_Mechanic\GameMech_WFC\Intermediate\Build\Win64\UnrealEditor\Development\GameMech_WFC\WFC.gen.cpp.obj"

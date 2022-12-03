@@ -31,11 +31,20 @@ protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
 
-	enum Buildings {Empty, Building1, Building2, Building3};
-
+	UFUNCTION(BlueprintCallable, Category="RandNum")
+	void BuildingToSpawn();
+	
+	void Build();
+	
+	
 public:	
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
 		bool m_selected;
+
+	UPROPERTY(EditDefaultsOnly, Category= "Spawning")
+	TArray<TSubclassOf<AActor>> Buildings;
+
+	
 };

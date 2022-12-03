@@ -13,7 +13,16 @@ void EmptyLinkFunctionForGeneratedCodeWFC() {}
 	GAMEMECH_WFC_API UClass* Z_Construct_UClass_UWFC();
 	ENGINE_API UClass* Z_Construct_UClass_UActorComponent();
 	UPackage* Z_Construct_UPackage__Script_GameMech_WFC();
+	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
+	ENGINE_API UClass* Z_Construct_UClass_AActor_NoRegister();
 // End Cross Module References
+	DEFINE_FUNCTION(UWFC::execBuildingToSpawn)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->BuildingToSpawn();
+		P_NATIVE_END;
+	}
 	DEFINE_FUNCTION(UWFC::execRandomNumber)
 	{
 		P_FINISH;
@@ -49,11 +58,35 @@ void EmptyLinkFunctionForGeneratedCodeWFC() {}
 	{
 		UClass* Class = UWFC::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
+			{ "BuildingToSpawn", &UWFC::execBuildingToSpawn },
 			{ "CheckNeibourTile", &UWFC::execCheckNeibourTile },
 			{ "RandomNumber", &UWFC::execRandomNumber },
 			{ "SetTile", &UWFC::execSetTile },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
+	}
+	struct Z_Construct_UFunction_UWFC_BuildingToSpawn_Statics
+	{
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UECodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UWFC_BuildingToSpawn_Statics::Function_MetaDataParams[] = {
+		{ "Category", "RandNum" },
+		{ "ModuleRelativePath", "Private/WFC.h" },
+	};
+#endif
+	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UWFC_BuildingToSpawn_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UWFC, nullptr, "BuildingToSpawn", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04080401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UWFC_BuildingToSpawn_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_UWFC_BuildingToSpawn_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_UWFC_BuildingToSpawn()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_UWFC_BuildingToSpawn_Statics::FuncParams);
+		}
+		return ReturnFunction;
 	}
 	struct Z_Construct_UFunction_UWFC_CheckNeibourTile_Statics
 	{
@@ -146,6 +179,12 @@ void EmptyLinkFunctionForGeneratedCodeWFC() {}
 #if WITH_METADATA
 		static const UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
+		static const UECodeGen_Private::FClassPropertyParams NewProp_Buildings_Inner;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_Buildings_MetaData[];
+#endif
+		static const UECodeGen_Private::FArrayPropertyParams NewProp_Buildings;
+		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
 	};
@@ -154,6 +193,7 @@ void EmptyLinkFunctionForGeneratedCodeWFC() {}
 		(UObject* (*)())Z_Construct_UPackage__Script_GameMech_WFC,
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_UWFC_Statics::FuncInfo[] = {
+		{ &Z_Construct_UFunction_UWFC_BuildingToSpawn, "BuildingToSpawn" }, // 1947599963
 		{ &Z_Construct_UFunction_UWFC_CheckNeibourTile, "CheckNeibourTile" }, // 1055222122
 		{ &Z_Construct_UFunction_UWFC_RandomNumber, "RandomNumber" }, // 837775566
 		{ &Z_Construct_UFunction_UWFC_SetTile, "SetTile" }, // 672668742
@@ -166,6 +206,18 @@ void EmptyLinkFunctionForGeneratedCodeWFC() {}
 		{ "ModuleRelativePath", "Private/WFC.h" },
 	};
 #endif
+	const UECodeGen_Private::FClassPropertyParams Z_Construct_UClass_UWFC_Statics::NewProp_Buildings_Inner = { "Buildings", nullptr, (EPropertyFlags)0x0004000000000000, UECodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, 0, Z_Construct_UClass_AActor_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(nullptr, 0) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UWFC_Statics::NewProp_Buildings_MetaData[] = {
+		{ "Category", "Spawning" },
+		{ "ModuleRelativePath", "Private/WFC.h" },
+	};
+#endif
+	const UECodeGen_Private::FArrayPropertyParams Z_Construct_UClass_UWFC_Statics::NewProp_Buildings = { "Buildings", nullptr, (EPropertyFlags)0x0014000000010001, UECodeGen_Private::EPropertyGenFlags::Array, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UWFC, Buildings), EArrayPropertyFlags::None, METADATA_PARAMS(Z_Construct_UClass_UWFC_Statics::NewProp_Buildings_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UWFC_Statics::NewProp_Buildings_MetaData)) };
+	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UWFC_Statics::PropPointers[] = {
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UWFC_Statics::NewProp_Buildings_Inner,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UWFC_Statics::NewProp_Buildings,
+	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_UWFC_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<UWFC>::IsAbstract,
 	};
@@ -175,11 +227,11 @@ void EmptyLinkFunctionForGeneratedCodeWFC() {}
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
 		FuncInfo,
-		nullptr,
+		Z_Construct_UClass_UWFC_Statics::PropPointers,
 		nullptr,
 		UE_ARRAY_COUNT(DependentSingletons),
 		UE_ARRAY_COUNT(FuncInfo),
-		0,
+		UE_ARRAY_COUNT(Z_Construct_UClass_UWFC_Statics::PropPointers),
 		0,
 		0x00A000A4u,
 		METADATA_PARAMS(Z_Construct_UClass_UWFC_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_UWFC_Statics::Class_MetaDataParams))
@@ -202,9 +254,9 @@ void EmptyLinkFunctionForGeneratedCodeWFC() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UWFC, UWFC::StaticClass, TEXT("UWFC"), &Z_Registration_Info_UClass_UWFC, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UWFC), 3315441251U) },
+		{ Z_Construct_UClass_UWFC, UWFC::StaticClass, TEXT("UWFC"), &Z_Registration_Info_UClass_UWFC, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UWFC), 2974649975U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_1975334163(TEXT("/Script/GameMech_WFC"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_370813319(TEXT("/Script/GameMech_WFC"),
 		Z_CompiledInDeferFile_FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_GameMech_WFC_Source_GameMech_WFC_Private_WFC_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
