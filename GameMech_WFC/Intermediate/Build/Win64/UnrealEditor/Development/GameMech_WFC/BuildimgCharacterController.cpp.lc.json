@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\n012782k\\documents\\github\\game_mechanic\\gamemech_wfc\\source\\gamemech_wfc\\private\\buildimgcharactercontroller.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\n012782k\\documents\\github\\game_mechanic\\gamemech_wfc\\intermediate\\build\\win64\\gamemech_wfceditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\n012782k\\documents\\github\\game_mechanic\\gamemech_wfc\\intermediate\\build\\win64\\unrealeditor\\development\\gamemech_wfc\\definitions.gamemech_wfc.h",
+            "c:\\users\\n012782k\\documents\\github\\game_mechanic\\gamemech_wfc\\source\\gamemech_wfc\\public\\buildimgcharactercontroller.h",
+            "c:\\users\\n012782k\\documents\\github\\game_mechanic\\gamemech_wfc\\intermediate\\build\\win64\\unrealeditor\\inc\\gamemech_wfc\\buildimgcharactercontroller.generated.h",
+            "c:\\program files\\microsoft visual studio\\2022\\professional\\vc\\tools\\msvc\\14.32.31326\\include\\concrt.h",
+            "c:\\program files\\microsoft visual studio\\2022\\professional\\vc\\tools\\msvc\\14.32.31326\\include\\crtdefs.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\shared\\guiddef.h",
+            "c:\\program files\\microsoft visual studio\\2022\\professional\\vc\\tools\\msvc\\14.32.31326\\include\\pplinterface.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

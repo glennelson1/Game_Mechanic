@@ -32,3 +32,34 @@ void UBuildingComp::TickComponent(float DeltaTime, ELevelTick TickType, FActorCo
 	// ...
 }
 
+void UBuildingComp::setupplayerInput()
+{
+	
+}
+
+
+
+void UBuildingComp::UpdatePlacement()
+{
+	FVector Loc;
+	FRotator Rot;
+	FHitResult Hit;
+
+	
+
+	FVector Start = Loc;
+	FVector End = Start + (Rot.Vector() * 4000);
+
+	FCollisionQueryParams TracePrams;
+	
+	FVector HitLocation = FVector::ZeroVector;
+}
+
+void UBuildingComp::SetplacementEnabled()
+{
+}
+
+void UBuildingComp::SpawnBuilding()
+{
+}
+

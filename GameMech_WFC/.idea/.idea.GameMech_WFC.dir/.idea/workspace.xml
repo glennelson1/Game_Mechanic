@@ -5,52 +5,82 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5fbdb66-ad0f-42e5-8794-1ba485f1b4c2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/BuildimgCharacterController.cpp.lc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/BuildimgCharacterController.cpp.obj.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/BuildimgCharacterController.cpp.obj.response.lc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/BuildimgCharacterController.gen.cpp.lc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/BuildimgCharacterController.gen.cpp.obj.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/BuildimgCharacterController.gen.cpp.obj.response.lc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/BuildingComp.cpp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/BuildingComp.gen.cpp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/GameMech_WFC/BuildimgCharacterController.gen.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/GameMech_WFC/BuildimgCharacterController.generated.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-19F56D3D4E9451D2EDA972ABEDFA9630/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-2DD2ABCD4A8B75B3094E029BED98A54A/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-9361A3624E492E920AC9C7BDC31A36B4/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-AA08DAAE4951ABC9F67C529D8BB2FEF1/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-2DD2ABCD4A8B75B3094E029BED98A54A_0000/Breadcrumbs_RHIThread_0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-2DD2ABCD4A8B75B3094E029BED98A54A_0000/CrashContext.runtime-xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-2DD2ABCD4A8B75B3094E029BED98A54A_0000/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-2DD2ABCD4A8B75B3094E029BED98A54A_0000/GameMech_WFC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-2DD2ABCD4A8B75B3094E029BED98A54A_0000/UEMinidump.dmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-AA08DAAE4951ABC9F67C529D8BB2FEF1_0000/Breadcrumbs_RHIThread_0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-AA08DAAE4951ABC9F67C529D8BB2FEF1_0000/CrashContext.runtime-xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-AA08DAAE4951ABC9F67C529D8BB2FEF1_0000/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-AA08DAAE4951ABC9F67C529D8BB2FEF1_0000/GameMech_WFC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-AA08DAAE4951ABC9F67C529D8BB2FEF1_0000/UEMinidump.dmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC-backup-2022.12.03-19.19.24.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC-backup-2022.12.04-14.29.40.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC-backup-2022.12.04-14.58.16.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC_2-backup-2022.12.03-17.20.16.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/GameMech_WFC/Private/BuildimgCharacterController.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/GameMech_WFC/Public/BuildimgCharacterController.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GameMech_WFC.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameMech_WFC.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameMech_WFC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameMech_WFC/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-GameMech_WFC.patch_0.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-GameMech_WFC.patch_0.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-GameMech_WFC.patch_1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-GameMech_WFC.patch_1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-GameMech_WFC.patch_2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-GameMech_WFC.patch_2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-GameMech_WFC.patch_3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-GameMech_WFC.patch_3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-GameMech_WFC.patch_4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-GameMech_WFC.patch_4.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-GameMech_WFC.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-GameMech_WFC.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Grid/Test3/GameObjects/BB_Building1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Grid/Test3/GameObjects/BB_Building1.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Grid/Test3/GameObjects/BP_BaseBuilding.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Grid/Test3/GameObjects/BP_BaseBuilding.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Grid/Test3/bp_GridManager.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Grid/Test3/bp_GridManager.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Grid/Test3/bp_PlopableComp.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Grid/Test3/bp_PlopableComp.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Grid/Test3/GM_basebuilding.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Grid/Test3/GM_basebuilding.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Grid/Test3/bp_characterController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Grid/Test3/bp_characterController.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/TestLevel.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TestLevel.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMech_WFC.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/GameMech_WFC.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/GameMech_WFCModuleRules.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/GameMech_WFCModuleRules.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/GameMech_WFCEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/GameMech_WFCEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/GameMech_WFCEditor/Development/DependencyCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/GameMech_WFCEditor/Development/DependencyCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/GameMech_WFCEditor/Development/GameMech_WFCEditor.uhtmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/GameMech_WFCEditor/Development/GameMech_WFCEditor.uhtmanifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/GameMech_WFCEditor/Development/Makefile.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/GameMech_WFCEditor/Development/Makefile.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ActionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/UnrealEditor-GameMech_WFC.dll.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/UnrealEditor-GameMech_WFC.dll.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/UnrealEditor-GameMech_WFC.dll.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/UnrealEditor-GameMech_WFC.dll.response.old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/UnrealEditor-GameMech_WFC.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/UnrealEditor-GameMech_WFC.exp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/UnrealEditor-GameMech_WFC.lib.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/UnrealEditor-GameMech_WFC.lib.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/UnrealEditor-GameMech_WFC.lib.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/UnrealEditor-GameMech_WFC.lib.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/UnrealEditor-GameMech_WFC.suppressed.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/GameMech_WFC/UnrealEditor-GameMech_WFC.suppressed.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/GameMech_WFC/BuildingComp.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/GameMech_WFC/BuildingComp.gen.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/GameMech_WFC/BuildingComp.generated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/GameMech_WFC/BuildingComp.generated.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/GameMech_WFC/GameMech_WFC.init.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/GameMech_WFC/GameMech_WFC.init.gen.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/GameMech_WFC/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/GameMech_WFC/Timestamp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/GameMech_WFC/WFC.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/GameMech_WFC/WFC.gen.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/GameMech_WFC/WFC.generated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/GameMech_WFC/WFC.generated.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/GameMech_WFC.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/GameMech_WFC.vcxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/GameMech_WFC.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/GameMech_WFC.vcxproj.filters" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/GameMech_WFC.vcxproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/GameMech_WFC.vcxproj.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/Grid/Test3/bp_GridManager_Auto1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Grid/Test3/bp_GridManager_Auto1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/Grid/Test3/GM_basebuilding_Auto2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Grid/Test3/GM_basebuilding_Auto2.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/Grid/Test3/bp_characterController_Auto1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Grid/Test3/bp_characterController_Auto1.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/TestLevel_Auto2.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/TestLevel_Auto2.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/Grid/Test3/bp_characterController_Auto2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Grid/Test3/bp_characterController_Auto2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/TestLevel_Auto1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/TestLevel_Auto1.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC-backup-2022.11.13-19.20.51.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC-backup-2022.11.23-19.33.58.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC-backup-2022.11.28-18.59.21.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC-backup-2022.11.28-20.48.02.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC-backup-2022.12.01-18.44.02.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC-backup-2022.12.01-19.21.43.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC-backup-2022.11.14-18.58.26.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC-backup-2022.11.14-20.11.37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC-backup-2022.11.23-19.13.17.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC-backup-2022.11.23-19.25.36.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC-backup-2022.12.03-17.22.29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC-backup-2022.12.03-17.46.09.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GameMech_WFC/Private/WFC.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GameMech_WFC/Private/WFC.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GameMech_WFC/Private/WFC.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GameMech_WFC/Private/WFC.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC_2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/GameMech_WFC_2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GameMech_WFC/Private/BuildingComp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GameMech_WFC/Private/BuildingComp.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GameMech_WFC/Public/BuildingComp.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GameMech_WFC/Public/BuildingComp.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +88,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../../../../Epic/UE5/UE_5.0/Engine/Source/ThirdParty/Crunch/include/crn_decomp.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../Epic/UE5/UE_5.0/Engine/Source/ThirdParty/Crunch/include/crnlib.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/GameMech_WFC/WFC.gen.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -69,14 +101,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="GameMech_WFC" type="Uproject" factoryName="rider.uproject">
       <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/GameMech_WFC.uproject" />
@@ -153,7 +185,9 @@
       <workItem from="1667847645710" duration="7000" />
       <workItem from="1669232833228" duration="2316000" />
       <workItem from="1669668576093" duration="242000" />
-      <workItem from="1670088228830" duration="3776000" />
+      <workItem from="1670088228830" duration="4564000" />
+      <workItem from="1670163540916" duration="4014000" />
+      <workItem from="1670168247092" duration="6036000" />
     </task>
     <servers />
   </component>

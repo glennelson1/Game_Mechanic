@@ -53,6 +53,9 @@
     <Filter Include="Source\GameMech_WFC\Private">
       <UniqueIdentifier>{DA18A681-6BE2-32CE-A2F2-8D0BB9EFEAAE}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\GameMech_WFC\Private\BuildimgCharacterController.cpp">
+      <Filter>Source\GameMech_WFC\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\GameMech_WFC\Private\BuildingComp.cpp">
       <Filter>Source\GameMech_WFC\Private</Filter>
     </ClCompile>
@@ -68,6 +71,9 @@
     <Filter Include="Source\GameMech_WFC\Public">
       <UniqueIdentifier>{6356AB56-1C85-3712-9AD5-BE8CD8CC20DD}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\GameMech_WFC\Public\BuildimgCharacterController.h">
+      <Filter>Source\GameMech_WFC\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\GameMech_WFC\Public\BuildingComp.h">
       <Filter>Source\GameMech_WFC\Public</Filter>
     </ClInclude>
