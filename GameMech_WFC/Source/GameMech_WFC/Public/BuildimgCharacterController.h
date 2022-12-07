@@ -22,14 +22,16 @@ public:
 	UFUNCTION(BlueprintNativeEvent, BlueprintCallable, Category="Placement")
 	void SetplacementEnabled();
 	UFUNCTION(BlueprintNativeEvent, BlueprintCallable, Category="Placement")
-	void UpdatePlacement();
+	FVector UpdatePlacement(FVector HitLocation);
 	UFUNCTION(BlueprintNativeEvent, BlueprintCallable, Category="Placement")
 	void SpawnBuilding();
 
 	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "Input")
 	float m_Location;
 
-	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category= "Location")
-	FVector HitLocation = FVector::ZeroVector;
+	//UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category= "Location")
+	//FVector HitLocation = FVector::ZeroVector;
+	UPROPERTY(EditDefaultsOnly, Category= "Spawning")
+	TSubclassOf<AActor> ActorToSpawn;
 	
 };

@@ -16,7 +16,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define FID_GameMech_WFC_Source_GameMech_WFC_Public_BuildimgCharacterController_h_15_SPARSE_DATA
 #define FID_GameMech_WFC_Source_GameMech_WFC_Public_BuildimgCharacterController_h_15_RPC_WRAPPERS \
 	virtual void SpawnBuilding_Implementation(); \
-	virtual void UpdatePlacement_Implementation(); \
+	virtual FVector UpdatePlacement_Implementation(FVector HitLocation); \
 	virtual void SetplacementEnabled_Implementation(); \
  \
 	DECLARE_FUNCTION(execSpawnBuilding); \
@@ -26,7 +26,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 #define FID_GameMech_WFC_Source_GameMech_WFC_Public_BuildimgCharacterController_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual void SpawnBuilding_Implementation(); \
-	virtual void UpdatePlacement_Implementation(); \
+	virtual FVector UpdatePlacement_Implementation(FVector HitLocation); \
 	virtual void SetplacementEnabled_Implementation(); \
  \
 	DECLARE_FUNCTION(execSpawnBuilding); \
@@ -34,7 +34,20 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	DECLARE_FUNCTION(execSetplacementEnabled);
 
 
-#define FID_GameMech_WFC_Source_GameMech_WFC_Public_BuildimgCharacterController_h_15_EVENT_PARMS
+#define FID_GameMech_WFC_Source_GameMech_WFC_Public_BuildimgCharacterController_h_15_EVENT_PARMS \
+	struct BuildimgCharacterController_eventUpdatePlacement_Parms \
+	{ \
+		FVector HitLocation; \
+		FVector ReturnValue; \
+ \
+		/** Constructor, initializes return property only **/ \
+		BuildimgCharacterController_eventUpdatePlacement_Parms() \
+			: ReturnValue(ForceInit) \
+		{ \
+		} \
+	};
+
+
 #define FID_GameMech_WFC_Source_GameMech_WFC_Public_BuildimgCharacterController_h_15_CALLBACK_WRAPPERS
 #define FID_GameMech_WFC_Source_GameMech_WFC_Public_BuildimgCharacterController_h_15_INCLASS_NO_PURE_DECLS \
 private: \

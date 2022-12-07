@@ -10,30 +10,42 @@ void ABuildimgCharacterController::SetupInPut()
 	
 }
 
-void ABuildimgCharacterController::SetplacementEnabled_Implementation()
-{
-	
-}
-
-void ABuildimgCharacterController::UpdatePlacement_Implementation()
+FVector ABuildimgCharacterController::UpdatePlacement_Implementation(FVector HitLocation)
 {
 	FVector Loc;
 	FRotator Rot;
 	FHitResult Hit;
 
+	//float x;
+	//float y;
+	
 	GetPlayerViewPoint(Loc, Rot);
 
 	FVector Start = Loc;
 	FVector End = Start + (Rot.Vector() * 4000);
 
 	FCollisionQueryParams TracePrams;
-	GetWorld()->LineTraceSingleByChannel(Hit, Start, End, ECC_Visibility, TracePrams);
+	
+	//GetWorld()->LineTraceSingleByChannel(Hit, Start, End, ECC_Visibility, TracePrams);
 
-	 HitLocation = Hit.Location;
+	GetHitResultUnderCursor(ECC_Visibility, true, Hit);
+	HitLocation = Hit.Location;
+	
+	return HitLocation;
+}
 
+void ABuildimgCharacterController::SetplacementEnabled_Implementation()
+{
 	
 }
 
+
+
 void ABuildimgCharacterController::SpawnBuilding_Implementation()
 {
+	
+
+
+
+	
 }
