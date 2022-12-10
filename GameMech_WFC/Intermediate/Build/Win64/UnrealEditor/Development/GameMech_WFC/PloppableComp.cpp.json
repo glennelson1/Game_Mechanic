@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\n012782k\\documents\\github\\game_mechanic\\gamemech_wfc\\source\\gamemech_wfc\\private\\ploppablecomp.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\n012782k\\documents\\github\\game_mechanic\\gamemech_wfc\\intermediate\\build\\win64\\gamemech_wfceditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\n012782k\\documents\\github\\game_mechanic\\gamemech_wfc\\intermediate\\build\\win64\\unrealeditor\\development\\gamemech_wfc\\definitions.gamemech_wfc.h",
+            "c:\\users\\n012782k\\documents\\github\\game_mechanic\\gamemech_wfc\\source\\gamemech_wfc\\public\\ploppablecomp.h",
+            "c:\\users\\n012782k\\documents\\github\\game_mechanic\\gamemech_wfc\\intermediate\\build\\win64\\unrealeditor\\inc\\gamemech_wfc\\ploppablecomp.generated.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\source\\runtime\\aimodule\\public\\aihelpers.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\source\\runtime\\aimodule\\classes\\aitypes.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\source\\runtime\\navigationsystem\\public\\navfilters\\navigationqueryfilter.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\source\\runtime\\navigationsystem\\public\\navareas\\navarea.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\navareabase.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\navareabase.generated.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\navigationsystem\\navarea.generated.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\navigationsystem\\navigationqueryfilter.generated.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\source\\runtime\\navigationsystem\\public\\navigationsystemtypes.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\ai\\navigationsystemconfig.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\navigationsystemconfig.generated.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\aitypes.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
