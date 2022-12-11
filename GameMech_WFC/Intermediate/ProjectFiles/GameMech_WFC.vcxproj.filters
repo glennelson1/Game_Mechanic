@@ -59,19 +59,7 @@
     <ClCompile Include="..\..\Source\GameMech_WFC\Private\BuildingComp.cpp">
       <Filter>Source\GameMech_WFC\Private</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\GameMech_WFC\Private\GridManager.cpp">
-      <Filter>Source\GameMech_WFC\Private</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\Source\GameMech_WFC\Private\GridManagerComp.cpp">
-      <Filter>Source\GameMech_WFC\Private</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\GameMech_WFC\Private\GridSystem.cpp">
-      <Filter>Source\GameMech_WFC\Private</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\GameMech_WFC\Private\PloppableComp.cpp">
-      <Filter>Source\GameMech_WFC\Private</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\GameMech_WFC\Private\Tile.cpp">
       <Filter>Source\GameMech_WFC\Private</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\GameMech_WFC\Private\WFC.cpp">
@@ -92,19 +80,7 @@
     <ClInclude Include="..\..\Source\GameMech_WFC\Public\BuildingComp.h">
       <Filter>Source\GameMech_WFC\Public</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Source\GameMech_WFC\Public\GridManager.h">
-      <Filter>Source\GameMech_WFC\Public</Filter>
-    </ClInclude>
     <ClInclude Include="..\..\Source\GameMech_WFC\Public\GridManagerComp.h">
-      <Filter>Source\GameMech_WFC\Public</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\GameMech_WFC\Public\GridSystem.h">
-      <Filter>Source\GameMech_WFC\Public</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\GameMech_WFC\Public\PloppableComp.h">
-      <Filter>Source\GameMech_WFC\Public</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\GameMech_WFC\Public\Tile.h">
       <Filter>Source\GameMech_WFC\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\GameMech_WFC\Public\WFC_Test.h">
