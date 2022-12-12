@@ -22,12 +22,12 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category= "Grid Size")
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category= "Grid Size")
 	int m_GridSize;
 	
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category= "World Size")
 	int m_WorldSize;
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category= "Grid Size")
+	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category= "Grid Size")
 	float offset;
 };
