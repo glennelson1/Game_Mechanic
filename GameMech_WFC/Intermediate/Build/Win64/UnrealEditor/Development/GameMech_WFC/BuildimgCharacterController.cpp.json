@@ -11,7 +11,16 @@
             "c:\\program files\\microsoft visual studio\\2022\\professional\\vc\\tools\\msvc\\14.32.31326\\include\\concrt.h",
             "c:\\program files\\microsoft visual studio\\2022\\professional\\vc\\tools\\msvc\\14.32.31326\\include\\crtdefs.h",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\shared\\guiddef.h",
-            "c:\\program files\\microsoft visual studio\\2022\\professional\\vc\\tools\\msvc\\14.32.31326\\include\\pplinterface.h"
+            "c:\\program files\\microsoft visual studio\\2022\\professional\\vc\\tools\\msvc\\14.32.31326\\include\\pplinterface.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\dialoguetypes.generated.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystaticstypes.generated.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystatics.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

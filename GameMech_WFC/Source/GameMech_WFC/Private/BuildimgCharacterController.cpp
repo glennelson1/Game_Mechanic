@@ -5,6 +5,8 @@
 
 #include <concrt.h>
 
+#include "Kismet/GameplayStatics.h"
+
 void ABuildimgCharacterController::SetupInPut()
 {
 	
@@ -30,6 +32,8 @@ FVector ABuildimgCharacterController::UpdatePlacement_Implementation(FVector Hit
 
 	GetHitResultUnderCursor(ECC_Visibility, true, Hit);
 	HitLocation = Hit.Location;
+
+	//UGameplayStatics::GetActorOfClass(GetWorld())
 	
 	return HitLocation;
 }

@@ -33,5 +33,6 @@ public:
 	//FVector HitLocation = FVector::ZeroVector;
 	UPROPERTY(EditDefaultsOnly, Category= "Spawning")
 	TSubclassOf<AActor> ActorToSpawn;
-	
+
+	//TSubclassOf<AActor*> GridManager;
 };
