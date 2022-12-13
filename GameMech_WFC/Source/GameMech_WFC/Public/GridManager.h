@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "GridActor.h"
 #include "GameFramework/Actor.h"
 #include "GridManager.generated.h"
 
@@ -30,4 +31,15 @@ public:
 
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category= "Grid Size")
 	float offset;
+
+	
+	
+	UFUNCTION(BlueprintNativeEvent, BlueprintCallable, Category="Grid")
+	void PopulateGrid();
+	
+	UPROPERTY(EditAnywhere, Category= "Spawning")
+	TSubclassOf<AGridActor> ActorToSpawn;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category= "Grid Array")
+	TArray<AGridActor*> GridArray; 
 };

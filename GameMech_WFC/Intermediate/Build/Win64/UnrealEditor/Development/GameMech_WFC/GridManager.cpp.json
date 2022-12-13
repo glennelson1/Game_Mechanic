@@ -7,7 +7,10 @@
         "Includes": [
             "c:\\users\\n012782k\\documents\\github\\game_mechanic\\gamemech_wfc\\intermediate\\build\\win64\\unrealeditor\\development\\gamemech_wfc\\definitions.gamemech_wfc.h",
             "c:\\users\\n012782k\\documents\\github\\game_mechanic\\gamemech_wfc\\source\\gamemech_wfc\\public\\gridmanager.h",
-            "c:\\users\\n012782k\\documents\\github\\game_mechanic\\gamemech_wfc\\intermediate\\build\\win64\\unrealeditor\\inc\\gamemech_wfc\\gridmanager.generated.h"
+            "c:\\users\\n012782k\\documents\\github\\game_mechanic\\gamemech_wfc\\source\\gamemech_wfc\\public\\gridactor.h",
+            "c:\\users\\n012782k\\documents\\github\\game_mechanic\\gamemech_wfc\\intermediate\\build\\win64\\unrealeditor\\inc\\gamemech_wfc\\gridactor.generated.h",
+            "c:\\users\\n012782k\\documents\\github\\game_mechanic\\gamemech_wfc\\intermediate\\build\\win64\\unrealeditor\\inc\\gamemech_wfc\\gridmanager.generated.h",
+            "c:\\program files\\microsoft visual studio\\2022\\professional\\vc\\tools\\msvc\\14.32.31326\\include\\algorithm"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

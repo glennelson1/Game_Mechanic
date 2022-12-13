@@ -50,6 +50,5 @@ void ABuildimgCharacterController::SpawnBuilding_Implementation()
 	
 
 
-
 	
 }
